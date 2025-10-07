@@ -70,22 +70,23 @@ Collaboration with Top Vietnamese Universities
 
 Dear [Admin Name],
 
-I hope this message finds you well. I am writing on behalf of 
-Universitas Muhammadiyah Riau, where I serve as a lecturer 
-overseeing our student exchange programs across ASEAN 
+I hope this message finds you well. I am writing this email
+on behalf of Universitas Muhammadiyah Riau, where I serve as
+a lecturer overseeing our student exchange programs across ASEAN 
 countries. We are thrilled to explore further academic 
-partnerships with esteemed universities in Vietnam, expanding 
-our network beyond the successful collaborations we've 
-established with Universitas UEF (Ho Chi Minh), MESKUL (Kuala 
-Lumpur, Malaysia), and Fatoni University (Thailand).
+partnerships with esteemed universities in Vietnam including
+[Target University], expanding our network beyond the successful
+collaborations we've established with Universitas like UEF
+(Ho Chi Minh, Vietnam), MSU (Kuala Lumpur, Malaysia), and
+Fatoni University (Thailand).
 
 Our goal is to create mutually beneficial student exchange 
 programs that provide our students with unparalleled academic 
 experiences while fostering international connections. In 
 line with our past collaborations, we ensure that our 
 students' flight, visa, and living expenses are fully covered 
-by themselves, eliminating any financial burden on the home 
-universities.
+by themselves, eliminating any financial burden on
+[Target University] as the Home University.
 
 We kindly request your consideration in extending a warm 
 welcome to our students who wish to participate in our 
@@ -96,22 +97,23 @@ strain on the home universities but rather to provide a
 platform for our students to engage with top-tier Vietnamese 
 education and gain valuable industry exposure.
 
-To facilitate this collaboration, please find attached some 
-brief details about Universitas Muhammadiyah Riau's exchange 
-programs, including our student profiles, desired fields of 
-study, and anticipated program duration. We believe that 
-these qualifications align with the academic offerings at 
-your university, paving the way for a fruitful partnership.
+To facilitate this collaboration, please have a look on the
+some attached brief details about Universitas Muhammadiyah
+Riau's exchange programs, including our student profiles,
+desired fields of study, and anticipated program duration.
+We believe that these qualifications align with the academic
+offerings at your university, paving the way for a fruitful
+partnership.
 
 We are eager to discuss potential collaborations further and 
 address any questions or concerns you may have regarding this 
 proposal. Please feel free to contact me directly at [Your 
 Email] or [Your Phone Number] to arrange a suitable time for 
-a conversation.
+a direct conversation through online meetings platform.
 
 Thank you for considering our request, and we look forward to 
 the possibility of strengthening ties between Universitas 
-Muhammadiyah Riau and your esteemed institution in Vietnam. 
+Muhammadiyah Riau and [Target University] in Vietnam. 
 Together, we can create unparalleled opportunities for our 
 students to grow academically and professionally while 
 expanding their global networks.
