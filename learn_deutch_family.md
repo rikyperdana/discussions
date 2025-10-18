@@ -1,9 +1,6 @@
 ollama run granite3.3:2b
 >>> Can you teach me deutch
-While I can certainly help you understand the German 
-language, learning a new language requires consistent 
-practice and immersion. Here are some basic German phrases to 
-get started:
+While I can certainly help you understand the German language, learning a new language requires consistent practice and immersion. Here are some basic German phrases to get started:
 
 1. Guten Tag - Good day
 2. Hallo - Hello
@@ -33,8 +30,7 @@ bisschen gefrühstückt? (Good morning, dear one! Have you had
 breakfast yet?)
 
 Wife (W): Ja, ich habe schon frühstückt. Ich waren gerade an 
-der Kaffeemaschine. (Yes, I've already eaten breakfast. I was 
-just making coffee.)
+der Kaffeemaschine. (Yes, I've already eaten breakfast. I was just making coffee.)
 
 H: Das ist gut! Wird es heute bei Regen bleiben? Ich muss 
 außerhalb arbeiten. (Good! Will it be rainy today? I have to 
@@ -50,8 +46,7 @@ verprügeln – sie ist ein echt Sauerei. (Good idea! Let's also
 check the shelter by the train tracks – it's in terrible 
 shape.)
 
-W: Ja, ich gehe das gerade tun. Behalte dich warm! (Yes, I'll 
-do that right now. Stay warm!)
+W: Ja, ich gehe das gerade tun. Behalte dich warm! (Yes, I'll do that right now. Stay warm!)
 
 >>> Good, now a conversation of the husband in his workplace
 Husband (H): Guten Morgen, Herr Müller! Wie geht's? (Good 
@@ -59,8 +54,7 @@ morning, Mr. Müller! How are you?)
 
 Herr Müller (HM): Hallo, Herr Schmidt! Vielen Dank für die 
 Briefmarke gestern Abend. Sehr nett von Ihnen. (Hello, Mr. 
-Schmidt! Thank you for the stamp yesterday evening. Very kind 
-of you.)
+Schmidt! Thank you for the stamp yesterday evening. Very kind of you.)
 
 H: Bitte entschuldigen Sie meine späte Ankunft. Es hat sich 
 herausgestellt, dass die Arbeiten länger dauern werden als 
@@ -118,11 +112,9 @@ maintenance.)
 HS: Ich stimme zu. Sie haben Recht, dass sie mehr Platz 
 benötigen. Haben Sie schon darüber nachgedacht, den Bereich 
 zu begrünen und die Luftqualität zu verbessern? (I agree. 
-They do need more space. Have you considered creating a green 
-area and improving air quality?)
+They do need more space. Have you considered creating a green area and improving air quality?)
 
-W: Das ist eine großartige Idee! Wir könnten uns gemeinsam an 
-diesen Projekt überlegen, vielleicht mit einem kleinen 
+W: Das ist eine großartige Idee! Wir könnten uns gemeinsam an diesen Projekt überlegen, vielleicht mit einem kleinen 
 Treffen in der Nähe. (That's a fantastic idea! We could 
 discuss this project together, perhaps with a small meeting 
 near the area.)
@@ -132,8 +124,7 @@ HS: Ja, das klingt interessant. Wann könnten wir uns treffen?
 
 W: Wie wäre es heute nach dem Mittagessen um 13 Uhr in 
 unserem Garten? Das ist ein schöner Platz und es gibt einen 
-kleinen Gemeinschaftsgarten nebenan. (How about meeting today 
-after lunch at 1 PM in our garden? It's a lovely spot, and 
+kleinen Gemeinschaftsgarten nebenan. (How about meeting today after lunch at 1 PM in our garden? It's a lovely spot, and 
 there's a small community garden next door.)
 
 HS: Das klingt perfekt! Ich werde es meinem Ehemann 
@@ -151,8 +142,7 @@ It was delicious! Thank you.)
 
 W: Sehr gut. Wir müssen noch unsere Tägliche Routine 
 erledigen. Wann wollt ihr ins Bett gehen? (Good. We still 
-have our daily routine tasks to complete. When do you want to 
-go to bed?)
+have our daily routine tasks to complete. When do you want to go to bed?)
 
 C: Ich glaube, ich geh um 21 Uhr ins Bett. (I think I'll go 
 to bed at 9 PM.)
@@ -183,5 +173,4 @@ with you.)
 
 H: Mir auch, meine Liebe. Schlaf gut und ich werde morgen 
 früh aufstehen, um das Beste aus unserer gemeinsamen Zeit zu 
-nutzen. (You too, my dear. Have a good sleep and I'll wake up 
-early tomorrow to make the most of our shared time.)
+nutzen. (You too, my dear. Have a good sleep and I'll wake up early tomorrow to make the most of our shared time.)
