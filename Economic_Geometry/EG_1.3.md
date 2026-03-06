@@ -1,0 +1,20 @@
+**1.3. The Purpose and Scope of the Book**
+
+The purpose of writing "Economic Geometry" is multifaceted, driven by both personal curiosity and a desire to bridge two seemingly distinct fields—geometry and economics—which I believe inherently share a profound connection yet are often studied apart in academia.
+
+The journey into this book began with an intrinsic interest: to understand how the precise, abstract concepts of geometry can illuminate economic theory, and vice versa. This curiosity was not merely academic; it stemmed from observing that both disciplines frequently operate under assumptions that could be more rigorously justified using geometric reasoning or visualized through geometric models.
+
+The initial realization came when I found myself yearning for a resource that would seamlessly blend the rigorous mathematical treatment of geometry with economic principles, offering readers not just an abstract discussion but tangible applications and insights. Existing literature in both fields—while indispensable—tended to isolate these disciplines within their respective domains, leaving a gap unaddressed: how these areas can complement each other to foster deeper understanding and innovation.
+
+Thus, the primary intention of this book is to serve as a bridge between geometry and economics, offering readers an enriched perspective on economic phenomena through geometric lenses. It aims not to replace existing reference materials but to add depth to them by exploring intersections where geometric concepts can enhance economic analysis or models become more intuitive through visual representation.
+
+This endeavor targets a broad audience: from beginners who wish to appreciate the harmony between geometry and economics, to enthusiasts willing to engage with complex formulas that challenge their understanding of these intertwined fields. The complexity level is intentionally crafted to accommodate readers at various stages of knowledge, ensuring accessibility without sacrificing depth or rigor.
+
+The scope of "Economic Geometry" spans across foundational principles in both geometry and economics up through advanced topics where the integration of geometric thought sparks innovation. It begins with basic concepts like points, lines, planes, and shapes—essential elements in any mathematical discourse—as well as economic models such as supply and demand, market equilibrium, utility theory, game theory, and network economics.
+
+From there, it delves into more sophisticated areas like spatial economics, where geography influences trade patterns; the geometric interpretation of financial markets through fractals and wavelet theory; and how geometry is applied in policy-making concerning social welfare functions, taxation, urban planning, and land use. The latter sections explore deeper theoretical frameworks including differential geometry for optimization problems, topological economies based on network theory, percolation, phase transitions, and the potential of quantum computing to redefine economic analysis.
+
+The ultimate goal of this book is not just to present these topics but to inspire readers—whether students, researchers, practitioners—to rethink how they view their work. It encourages a paradigm shift from viewing geometry as purely abstract mathematics detached from reality to seeing it as an indispensable tool for understanding and shaping the world around us. By fostering interdisciplinary thinking, "Economic Geometry" aims to contribute to advancing both academic knowledge and practical applications in economics and beyond.
+
+In essence, this book is about more than just exploring the intersection of two fields; it's about opening new pathways for future research, innovation, and discovery by recognizing the intrinsic link between mathematics and economic theory. Through its comprehensive coverage and thoughtful exploration of how geometry can enhance our understanding of economics—and vice versa—this work seeks to inspire a generation of thinkers who are equipped to tackle complex problems with creativity and rigor.
+

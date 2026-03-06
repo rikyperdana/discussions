@@ -1,4 +1,3 @@
-I want to write a book titled Economic Geometry which blends the disciplines of geometry and economy. Now first let's plan the table of contents which shall be used as a guideline for further writing. The longer the better
 Here is a suggested table of contents for your book "Economic Geometry," designed to provide a comprehensive guide for exploring the intersection of geometry and economics:
 
 1. Introduction
@@ -71,3 +70,6 @@ Here is a suggested table of contents for your book "Economic Geometry," designe
 
 This table of contents provides a comprehensive framework to explore the intersection of geometry and economics in depth. Each section aims to bridge mathematical concepts with economic principles, offering readers a unique perspective on how geometric thinking can enhance our understanding of economic phenomena.
 
+---
+
+I already done the first chapter, now it's time to move on to the second chapter. But before we get to write the sub-chapter 2.1, we better write the preface part of this chapter. Let the readers know what they can expect to learn from the following sub-chapters and what outcome they will leave with. Lots of paragraphs are more preferable than structured points. Tell them that each sub-chapter will provide few exercises and answers to test their comprehension so far.
