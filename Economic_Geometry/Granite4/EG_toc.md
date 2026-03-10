@@ -72,4 +72,4 @@ This table of contents provides a comprehensive framework to explore the interse
 
 ---
 
-I already done the first chapter, now it's time to move on to the second chapter. But before we get to write the sub-chapter 2.1, we better write the preface part of this chapter. Let the readers know what they can expect to learn from the following sub-chapters and what outcome they will leave with. Lots of paragraphs are more preferable than structured points. Tell them that each sub-chapter will provide few exercises and answers to test their comprehension so far.
+I've already wrote the entire introduction chapter and we're ready to write the second chapter up to sub-chapter 2.1. Now let's focus on the sub-chapter 2.2 only. Please write as complete as you can. Structured points are favorable but make sure that each points has extensive explanation yet engaging. I expect this sub-chapter to have at least 2 to 3 pages long. The sub-chapter should end with a little exercise to test the reader comprehension of the subject.
