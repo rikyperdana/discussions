@@ -65,7 +65,7 @@ Fortunately, there are many software tools available that make it easier to work
 
 **Conclusion:  A Powerful Tool for Economic Analysis**
 
-Discrete geometry provides a powerful and versatile framework for understanding the complex relationships that shape our economies. By using graphs, we can visualize, analyze, and model a wide range of economic phenomena, from market structures to supply chains to social networks.  As our economies become increasingly interconnected, the importance of graph theory will only continue to grow.  
+Discrete geometry provides a powerful and versatile framework for understanding the complex relationships that shape our economies. By using graphs, we can visualize, analyze, and model a wide range of economic phenomena, from market structures to supply chains to social networks.  As our economies become increasingly interconnected, the importance of graph theory will only continue to grow.
 
 In the next chapter, we'll delve deeper into specific applications of graph theory in economics, exploring how to use these tools to solve real-world problems.
 

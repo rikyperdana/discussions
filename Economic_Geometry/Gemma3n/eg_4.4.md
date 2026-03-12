@@ -14,7 +14,7 @@ Let's start with the demand curve.  It's a graphical representation of the relat
 
     *   **Geometric Interpretation:**  The demand curve is a function of price, often represented as  `Q = f(P)`.  The slope of the demand curve is the derivative of this function with respect to price.  A negative slope is expected, as higher prices lead to lower quantities.  The steeper the slope, the more negative the derivative.
 
-*   **The Elastic Demand Curve:**  This is a curve with a significant curve – it's not a straight line!  It's often a curve that slopes downwards, but with a relatively steep slope.  This indicates that demand is *elastic*.  Elastic demand means that changes in price have a large impact on quantity demanded.  
+*   **The Elastic Demand Curve:**  This is a curve with a significant curve – it's not a straight line!  It's often a curve that slopes downwards, but with a relatively steep slope.  This indicates that demand is *elastic*.  Elastic demand means that changes in price have a large impact on quantity demanded.
 
     *   **Geometric Interpretation:**  An elastic demand curve is often represented as a curve that quickly slopes downwards.  The elasticity coefficient is a measure of how much quantity demanded changes in response to a change in price.  A high elasticity coefficient indicates elastic demand.
 
@@ -44,7 +44,7 @@ Now, let's look at the supply curve.  It shows the relationship between the pric
 
 The magic happens when the demand and supply curves intersect.  This point represents the *market equilibrium* – the price and quantity where the quantity demanded equals the quantity supplied.
 
-*   **Elasticity and Equilibrium:**  The elasticity of demand and supply play a crucial role in determining the equilibrium price and quantity.  
+*   **Elasticity and Equilibrium:**  The elasticity of demand and supply play a crucial role in determining the equilibrium price and quantity.
     *   **Elastic Demand:**  When demand is elastic, the equilibrium price is lower than when demand is inelastic.  Consumers are highly responsive to price changes, so a small price increase will lead to a large drop in quantity demanded, pushing the price down.
     *   **Inelastic Demand:**  When demand is inelastic, the equilibrium price is higher than when demand is elastic.  Consumers are not very responsive to price changes, so a price increase will lead to a small drop in quantity demanded, but the price will still rise.
     *   **Elastic Supply:**  When supply is elastic, the equilibrium price is higher than when supply is inelastic.  Producers are willing to adjust their output significantly in response to price changes, so a price increase will lead to a large increase in quantity supplied, pushing the price up.
@@ -62,8 +62,6 @@ The magic happens when the demand and supply curves intersect.  This point repre
 
 Understanding price elasticity is vital for businesses, policymakers, and consumers alike.  By using geometric tools to visualize demand and supply curves, we can gain a deeper appreciation for how these curves respond to changes in price and how that impacts market outcomes.  Elasticity isn't just a number; it's a powerful lens through which to view the dynamics of the market.
 
-
-
 ---
 
 **Further Exploration:**
@@ -71,8 +69,3 @@ Understanding price elasticity is vital for businesses, policymakers, and consum
 *   **Elasticity of Demand vs. Elasticity of Supply:**  The concepts are similar, but the slopes of the curves are different.
 *   **Cross-Price Elasticity of Demand:**  How does the demand for one good change when the price of another good changes?
 *   **Income Elasticity of Demand:**  How does the demand for a good change when people's income changes?
-
-
-
-
-

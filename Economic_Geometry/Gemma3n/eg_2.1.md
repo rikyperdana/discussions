@@ -61,7 +61,7 @@ Discrete geometry deals with objects that are composed of discrete elements, lik
 
 **Next Steps:**
 
-This chapter has provided a solid foundation in basic geometric concepts.  In the next chapter, we'll delve deeper into how these concepts can be applied to solve economic problems.  We'll explore how to represent economic variables graphically, how to analyze market structures using geometric models, and how to use networks to understand economic relationships.  
+This chapter has provided a solid foundation in basic geometric concepts.  In the next chapter, we'll delve deeper into how these concepts can be applied to solve economic problems.  We'll explore how to represent economic variables graphically, how to analyze market structures using geometric models, and how to use networks to understand economic relationships.
 
 Remember, the more you understand these fundamental concepts, the more powerful your ability to analyze economic data and build insightful models will become.  So, keep exploring, keep visualizing, and keep building your geometric toolbox!
 

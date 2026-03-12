@@ -2,7 +2,7 @@
 
 ### 9.5.1 Introduction: Beyond Rationality – The Geometry of Irrationality
 
-Welcome to the fascinating world of Behavioral Finance!  We've explored how geometry can help us understand the fundamental principles of economics, and now we're diving into a particularly intriguing area: how psychological factors – our *behavioral biases* – shape financial markets.  For a long time, economists assumed that people were perfectly rational actors, making decisions based on optimal calculations.  But the reality is far more complex.  We're often swayed by emotions, heuristics (mental shortcuts), and cognitive biases.  
+Welcome to the fascinating world of Behavioral Finance!  We've explored how geometry can help us understand the fundamental principles of economics, and now we're diving into a particularly intriguing area: how psychological factors – our *behavioral biases* – shape financial markets.  For a long time, economists assumed that people were perfectly rational actors, making decisions based on optimal calculations.  But the reality is far more complex.  We're often swayed by emotions, heuristics (mental shortcuts), and cognitive biases. 
 
 Think of it like this:  Imagine trying to navigate a maze using only a compass and a map.  A rational approach would be to meticulously analyze every path and calculate the optimal route.  But what if you're tired, distracted, or simply don't want to spend the time?  You might just pick a random direction and hope for the best.  That's a simplified analogy for how behavioral biases can lead to irrational financial decisions.
 
@@ -56,7 +56,7 @@ To implement these geometric models, we'll need some tools and techniques.
 
 ### 9.5.6  Conclusion:  Embracing the Irrationality
 
-Behavioral finance is a challenging but rewarding field.  By combining the power of geometry with insights from psychology, we can gain a deeper understanding of the irrationalities that plague financial markets.  This knowledge can help us make more informed investment decisions and avoid the pitfalls of overconfidence, herd behavior, and loss aversion.  
+Behavioral finance is a challenging but rewarding field.  By combining the power of geometry with insights from psychology, we can gain a deeper understanding of the irrationalities that plague financial markets.  This knowledge can help us make more informed investment decisions and avoid the pitfalls of overconfidence, herd behavior, and loss aversion.
 
 The geometric models we've explored in this chapter are not just abstract mathematical constructs; they are powerful tools for understanding the complex dynamics of financial markets.  By embracing the irrationality, we can build more robust and effective models that are better equipped to navigate the uncertainties of the financial world.
 
@@ -66,4 +66,3 @@ The geometric models we've explored in this chapter are not just abstract mathem
 
 *   *Thinking, Fast and Slow* by Daniel Kahneman
 *   *A Random Walk Through Wall Street* by Burton Malkiel
-

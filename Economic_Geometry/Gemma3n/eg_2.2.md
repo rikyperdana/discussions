@@ -112,12 +112,3 @@ This is just a brief introduction to linear algebra.  In the following sections,
 
 *   **Khan Academy:** [https://www.khanacademy.org/math/linear-algebra](https://www.khanacademy.org/math/linear-algebra)
 *   **MIT OpenCourseWare:** [https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-
-
-
-This chapter provides a solid foundation for understanding the role of linear algebra in economics.  It's a powerful tool that can help you analyze economic problems in a more structured and insightful way.  Don't be afraid to explore these concepts further – they're essential for anyone who wants to understand the world of economics!
-
-
-
-
-

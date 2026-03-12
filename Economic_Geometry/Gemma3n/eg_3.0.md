@@ -32,7 +32,7 @@ This chapter will equip you with the tools and concepts necessary to analyze eco
 *   **Understand the role of game theory and information economics** in shaping economic outcomes.
 *   **Appreciate the limitations of traditional economic models** and the potential of geometric methods to address them.
 
-We encourage you to actively engage with the material, draw diagrams, and work through examples.  This chapter is designed to be a foundational building block for the rest of the book, and your understanding of these core principles will be essential for success in the subsequent chapters.  
+We encourage you to actively engage with the material, draw diagrams, and work through examples.  This chapter is designed to be a foundational building block for the rest of the book, and your understanding of these core principles will be essential for success in the subsequent chapters.
 
 Let's embark on this journey together and explore the fascinating intersection of economics and geometry!
 
@@ -46,8 +46,3 @@ Let's embark on this journey together and explore the fascinating intersection o
 *   **Appendix B:** Useful Formulas and Equations
 *   **Appendix C:** Software Tools for Economic Geometry (e.g., Python, R, MATLAB)
 *   **Appendix D:** Further Reading
-
-
-
-
-

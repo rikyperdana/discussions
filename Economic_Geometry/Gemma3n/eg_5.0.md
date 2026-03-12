@@ -14,7 +14,7 @@ Think of a city – its roads, bridges, and public transportation systems. They 
 
 **To get you thinking about the concepts we'll cover, consider this:**
 
-Imagine a social media platform. Its value isn't just in the features it offers; it's in the number of people who use it. The more people who use the platform, the more valuable it becomes to each individual user. This is a classic example of network effects.  
+Imagine a social media platform. Its value isn't just in the features it offers; it's in the number of people who use it. The more people who use the platform, the more valuable it becomes to each individual user. This is a classic example of network effects.
 
 Now, think about a supply chain. The efficiency of a global supply chain depends on the connections between suppliers, manufacturers, distributors, and retailers.  A disruption in one part of the chain can have cascading effects throughout the entire system.
 
@@ -29,10 +29,3 @@ We'll be using visual aids, diagrams, and real-world examples to illustrate thes
 *   Appreciate the importance of network design and optimization in various economic contexts.
 
 Get ready to explore the fascinating world of networks – a world that is increasingly important for understanding the complexities of our modern economy.  Let's dive in!
-
-
-
----
-
-**Note:** This preface aims to be engaging and informative, providing a clear roadmap for the reader and a gentle test of their prior knowledge. It highlights the key concepts covered in the chapter and sets the stage for the more detailed explanations that will follow.  The inclusion of real-world examples and thought-provoking questions helps to make the material more accessible and relevant.
-

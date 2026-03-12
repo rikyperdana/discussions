@@ -71,30 +71,10 @@ This section provides a quick reference for some key formulas and equations rele
 *   **Agent-Based Model Equations:**  Equations that describe the behavior of individual agents, including their decision-making processes and interactions.
 
 
-
-## Appendix C: Software Tools for Economic Geometry
-
-*   **Python:**  Libraries like `matplotlib`, `seaborn`, and `networkx` are excellent for creating visualizations and analyzing networks.
-*   **R:**  R is a powerful statistical programming language with a wide range of packages for data analysis and visualization.
-*   **MATLAB:**  MATLAB is a versatile platform for numerical computation and simulation.
-*   **Geogebra:** A free, open-source software for dynamic geometry and visualization.
-*   **NetLogo:**  A programming language and platform for creating agent-based models.
-
-
-
-## Appendix D: Further Reading
+## Appendix 2: Further Reading
 
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** A seminal work on cognitive biases.
 *   **"Predictably Irrational" by Dan Ariely:**  Explores the irrationality of human behavior.
 *   **"Social Psychology" by David Myers:**  A comprehensive textbook on social psychology.
 *   **"The Complexity of Decision Making" by Herbert Simon:**  A classic work on decision-making theory.
 *   **Research papers on behavioral economics and cognitive geometry:**  Search for papers on topics like "availability heuristic," "loss aversion," and "framing effects."
-
-
-
-This detailed sub-chapter provides a comprehensive overview of cognitive biases and their geometric representations. It also includes useful formulas, software tools, and further reading suggestions.  It aims to be engaging and accessible to both casual and college readers, providing a solid foundation for understanding the fascinating intersection of economics and cognitive science.
-
-
-
-
-

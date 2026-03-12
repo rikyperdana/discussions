@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Pong</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden; /* Prevent scrollbars */
+      background-color: #000;
+    }
+    canvas {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="pongCanvas" width="640" height="480"></canvas>
+  <div id="score"></div>
+<script>
+const canvas = document.getElementById('pongCanvas');
+const ctx = canvas.getContext('2d');
+
+// Game variables (same as before)
+let ballX = 320;
+let ballY = 240;
+let ballSpeedX = 3;
+let ballSpeedY = 3;
+let paddleWidth = 10;
+let paddleHeight = 100;
+let paddleSpeed = 5;
+let playerScore = 0;
+let opponentScore = 0;
+let gameRunning = true;
+
+// Paddle 1 (Player)
+let playerPaddle = {
+  x: 10,
+  y: canvas.height / 2 - paddleHeight / 2,
+  width: paddleWidth,
+  height: paddleHeight,
+};
+
+// Paddle 2 (Opponent)
+let opponentPaddle = {
+  x: canvas.width - paddleWidth - 10,
+  y: canvas.height / 2 - paddleHeight / 2,
+  width: paddleWidth,
+  height: paddleHeight,
+};
+
+// Ball
+let ball = {
+  x: ballX,
+  y: ballY,
+  speedX: ballSpeedX,
+  speedY: ballSpeedY,
+  height: 10, // Assuming a reasonable ball size (e.g., 10 pixels)
+};
+
+// Score Display
+let scoreDisplay = document.getElementById('score');
+
+// Function to update the game state
+function update() {
+  if (!gameRunning) return;
+
+  // Ball movement
+  ballX += ballSpeedX;
+  ballY += ballSpeedY;
+
+  // Ball collision with top and bottom walls
+  if (ballY <= 0 || ballY >= canvas.height - ballHeight) {
+    ballSpeedY = -ballSpeedY;
+  }
+
+  // Ball collision with paddles
+  if (ballX <= playerPaddle.x + paddleWidth && ballY >= playerPaddle.y && ballY <= playerPaddle.y + paddleHeight) {
+    ballSpeedX = -ballSpeedX;
+  }
+  if (ballX >= opponentPaddle.x && ballY >= opponentPaddle.y && ballY <= opponentPaddle.y + paddleHeight) {
+    ballSpeedX = -ballSpeedX;
+  }
+
+  // Ball collision with the edges of the canvas
+  if (ballX <= 0 || ballX >= canvas.width) {
+    gameRunning = false; // Game over
+  }
+
+  // Score update
+  if (ballX <= 0) {
+    opponentScore++;
+  } else if (ballX >= canvas.width) {
+    playerScore++;
+  }
+}
+
+// Function to draw the game elements
+function draw() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  // Draw paddles
+  ctx.fillStyle = 'white';
+  ctx.fillRect(playerPaddle.x, playerPaddle.y, paddleWidth, paddleHeight);
+  ctx.fillRect(opponentPaddle.x, opponentPaddle.y, paddleWidth, paddleHeight);
+
+  // Draw the ball
+  ctx.fillStyle = 'white';
+  ctx.beginPath();
+  ctx.arc(ballX, ballY, 10, 0, 2 * Math.PI);
+  ctx.fill();
+
+  // Draw the score
+  ctx.fillStyle = 'black';
+  ctx.font = '16px Arial';
+  scoreDisplay.textContent = `Player: ${playerScore} - Opponent: ${opponentScore}`;
+}
+
+// Event listeners for paddle movement
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'ArrowLeft') {
+    playerPaddle.x -= paddleSpeed;
+  } else if (event.key === 'ArrowRight') {
+    playerPaddle.x += paddleSpeed;
+  }
+});
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'ArrowLeft') {
+    opponentPaddle.x -= paddleSpeed;
+  } else if (event.key === 'ArrowRight') {
+    opponentPaddle.x += paddleSpeed;
+  }
+});
+
+// Game loop
+function gameLoop() {
+  update();
+  draw();
+  requestAnimationFrame(gameLoop);
+}
+
+// Start the game
+gameLoop();
+</script>
+</body>
+</html>

@@ -12,7 +12,7 @@ At its heart, economics is about scarcity. It’s the simple fact that resources
 
 **3.1.2 Opportunity Cost: The Value of What You Give Up**
 
-Every choice we make comes with a cost – it’s not just the monetary cost, but the value of the next best alternative we forgo.  This is known as opportunity cost.  
+Every choice we make comes with a cost – it’s not just the monetary cost, but the value of the next best alternative we forgo.  This is known as opportunity cost.
 
 * **Geometric Connection:**  Let's say you have a free afternoon. You can either study for an exam or go to a movie. If you choose to go to the movie, the opportunity cost is the potential benefit you would have gained from studying.  Graphically, this can be represented as a trade-off – the potential gain from one activity is lost when you choose another.  The "cost" isn't always monetary; it's the value of the best alternative.
 
@@ -36,7 +36,7 @@ Supply and demand are the fundamental forces that determine prices and quantitie
 
 Elasticity measures how responsive the quantity demanded or supplied is to a change in price.  It tells us how much the quantity changes for a given price change.
 
-* **Geometric Connection:**  Imagine a demand curve.  If the demand is *elastic* (meaning a small price change leads to a large quantity change), the curve will be steeply sloped.  If the demand is *inelastic* (meaning a price change has little effect on quantity), the curve will be flatter.  The slope of the demand curve is a visual indicator of elasticity.  
+* **Geometric Connection:**  Imagine a demand curve.  If the demand is *elastic* (meaning a small price change leads to a large quantity change), the curve will be steeply sloped.  If the demand is *inelastic* (meaning a price change has little effect on quantity), the curve will be flatter.  The slope of the demand curve is a visual indicator of elasticity.
 
 **3.1.6  Profit Maximization**
 
@@ -57,10 +57,4 @@ In many real-world situations, one party has more information than another. This
 * **Geometric Connection:**  Imagine a used car salesman.  He knows more about the car's condition than the potential buyer.  This information asymmetry can lead to adverse selection (the buyer choosing a car with a higher risk of problems) and moral hazard (the buyer taking more risks after purchasing the car).  Graphically, this can be represented as a situation where the buyer has a steeper demand curve than the seller, making it difficult for the seller to get a fair price.
 
 
-
 These basic economic principles provide a solid foundation for understanding the complex world of economics.  By using geometry as a tool, we can make these concepts more intuitive, visually engaging, and easier to grasp.  In the following chapters, we'll build on these foundations and explore more advanced topics, all with a geometric perspective.
-
-
-
-
-

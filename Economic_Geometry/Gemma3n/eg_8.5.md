@@ -82,8 +82,3 @@ Volatility is a complex and multifaceted concept.  By using geometric techniques
 
 *   **Stochastic Volatility Models:**  Explore models like the Heston model and the SABR model.
 *   **GARCH Models:**  Learn about GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models, which are used to model volatility changes over time.
-*   **Financial Time Series Analysis:**  Dive deeper into time series analysis techniques, such as ARIMA models and state-space models.
-
-
-
-This chapter provides a comprehensive overview of volatility and its connection to statistical geometry.  It aims to equip you with the knowledge and tools necessary to analyze volatility data and make informed decisions in the financial world.  Remember, the key is to think of volatility not just as a number, but as a *shape* in the data – a shape that can reveal hidden patterns and provide valuable insights.

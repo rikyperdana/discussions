@@ -6,7 +6,7 @@ We’ve explored how economic growth can be modeled using production functions a
 
 ### 7.5.2  The Geometric Lens: Visualizing Resource Constraints
 
-Geometry provides a powerful way to visualize and analyze the spatial dimensions of resource constraints.  Instead of just looking at abstract numbers, we can use graphs and diagrams to understand how our consumption patterns impact the environment.  
+Geometry provides a powerful way to visualize and analyze the spatial dimensions of resource constraints.  Instead of just looking at abstract numbers, we can use graphs and diagrams to understand how our consumption patterns impact the environment.
 
 *   **Resource Depletion as a Space:** Imagine a finite resource like oil or a mineral deposit.  We can represent the available quantity as a limited space.  As we consume more, we “fill up” this space.  The geometry of this space – its shape, boundaries, and how quickly it fills – reveals the rate of depletion.
 *   **Environmental Impact as a Surface:**  Consider the environmental impact of industrial activity.  Pollution, deforestation, and climate change can be visualized as surfaces that are accumulating around our economic activities.  We can use techniques like surface analysis and volume calculations to quantify these impacts.
@@ -59,11 +59,6 @@ The challenge of sustainable growth is complex and multifaceted.  But by applyin
 *   **Optimization Software:** Gurobi, CPLEX
 *   **Data Visualization Software:** Tableau, Power BI
 *   **Programming Languages:** Python (with libraries like GeoPandas, Shapely), R
-
-
-
-This detailed sub-chapter provides a comprehensive overview of sustainable growth and resource management, emphasizing the role of geometry in analyzing and solving these complex challenges. It includes practical examples, relevant formulas, and a list of useful software tools.  It aims to make the concepts accessible to both casual and college readers, encouraging them to think critically about the future of our planet.
-
 
 
 

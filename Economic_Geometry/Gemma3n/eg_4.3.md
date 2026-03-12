@@ -8,7 +8,7 @@ Think about it: who do you encounter when you think of oligopolies?  Probably a 
 
 **4.3.1 The Landscape of Oligopoly: A Visual Overview**
 
-Imagine a graph where the x-axis represents the quantity of a good produced, and the y-axis represents the price. In a typical oligopoly, you won't see a perfectly competitive supply and demand curve. Instead, you'll see a few distinct curves – each representing the supply and demand of a different firm.  
+Imagine a graph where the x-axis represents the quantity of a good produced, and the y-axis represents the price. In a typical oligopoly, you won't see a perfectly competitive supply and demand curve. Instead, you'll see a few distinct curves – each representing the supply and demand of a different firm.
 
 *   **Market Demand Curve:** This curve shows the relationship between the market price and the total quantity demanded.  It slopes downwards, meaning as price increases, quantity demanded decreases.
 *   **Market Supply Curve:**  This curve shows the relationship between the market price and the total quantity supplied. It slopes upwards, meaning as price increases, quantity supplied increases.
@@ -17,7 +17,7 @@ Imagine a graph where the x-axis represents the quantity of a good produced, and
 
 **4.3.2 Product Differentiation:  Creating a Competitive Advantage**
 
-One of the key features of an oligopoly is that firms often differentiate their products. This means they try to make their products distinct from those of their competitors.  Think about the different models of cars available – they aren't all identical!  
+One of the key features of an oligopoly is that firms often differentiate their products. This means they try to make their products distinct from those of their competitors.  Think about the different models of cars available – they aren't all identical!
 
 *   **Geometric Representation:**  We can visualize product differentiation using a few different approaches:
     *   **Feature Sets:**  Imagine a graph where the x-axis represents features (e.g., engine size, fuel efficiency, safety rating) and the y-axis represents the perceived value of those features.  Each firm's product would be plotted on this graph, showing its unique combination of features and value.
@@ -63,8 +63,4 @@ Understanding oligopolies requires a blend of economic theory and geometric visu
 *   **Case Studies:**  Look at real-world examples of oligopolies (e.g., the auto industry, the airline industry) and analyze their pricing strategies and market dynamics using the concepts discussed in this chapter.
 *   **Software Tools:**  Explore software tools (e.g., Excel, Python with libraries like Pandas and Matplotlib) to create visualizations of oligopolistic markets and analyze pricing data.
 *   **Further Reading:**  Consult textbooks on industrial organization and game theory for a deeper dive into the complexities of oligopolies.
-
-
-
-
 

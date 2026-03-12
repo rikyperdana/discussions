@@ -21,8 +21,3 @@ Furthermore, we'll touch upon the burgeoning field of neuroeconomics – the att
 Consider a simple scenario: a consumer is deciding whether to buy a new smartphone.  A traditional economic model might assume they'll rationally weigh the cost against the benefits.  However, behavioral economics suggests that factors like present bias (favoring immediate rewards over future ones) and loss aversion (feeling the pain of a loss more strongly than the pleasure of an equivalent gain) might significantly influence their decision.  How might you geometrically represent these biases in a model of consumer choice?  (Hint: Consider using a decision tree or a utility function that incorporates non-linearities.)
 
 This chapter provides a powerful framework for analyzing economic phenomena from a more human-centered perspective. By integrating cognitive geometry, we can gain a more complete and nuanced understanding of the forces that shape our economic decisions.  Let's embark on this journey to unravel the complexities of human behavior through the lens of geometry!
-
-
-
-
-

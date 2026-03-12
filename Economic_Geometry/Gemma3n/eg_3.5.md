@@ -2,13 +2,13 @@
 
 ### 3.5.1 Introduction: When Trust Goes to the Headaches
 
-Ever wondered why you might be hesitant to buy a used car from a stranger, even if the price is tempting? Or why a doctor might hesitate to fully disclose all the potential side effects of a medication? These situations aren't just quirky human tendencies; they're rooted in a fundamental economic problem: **asymmetric information**.  
+Ever wondered why you might be hesitant to buy a used car from a stranger, even if the price is tempting? Or why a doctor might hesitate to fully disclose all the potential side effects of a medication? These situations aren't just quirky human tendencies; they're rooted in a fundamental economic problem: **asymmetric information**.
 
 In economics, information is power.  When one party has more information than another, it creates a situation where decisions can be difficult, and trust can be fragile.  Asymmetric information arises when this imbalance exists – one party knows something the other doesn't. This chapter dives into the heart of information economics, exploring the geometric underpinnings of this challenge and how it shapes market behavior. We'll use visual tools and intuitive explanations to make these complex concepts accessible.
 
 ### 3.5.2 What is Asymmetric Information? A Visual Breakdown
 
-Imagine a simple scenario: a seller of a used car knows exactly how well the engine runs, while the buyer doesn't. This is asymmetric information. The seller has an informational advantage.  
+Imagine a simple scenario: a seller of a used car knows exactly how well the engine runs, while the buyer doesn't. This is asymmetric information. The seller has an informational advantage.
 
 *   **The Problem:** The buyer can't perfectly assess the car's condition. This creates a risk for the buyer – they might be paying for a lemon.
 *   **The Geometry:**  Think of this as a probability distribution. The seller's knowledge creates a "cloud" of uncertainty around the car's true state. The buyer's ability to assess the car is limited by this cloud.  The more information the buyer has (e.g., a thorough inspection), the smaller the cloud becomes, and the more confident they can be.
@@ -41,7 +41,7 @@ One of the key ways to deal with asymmetric information is through **signaling**
 
 ### 3.5.5  The Economics of Signaling:  Is it Worth the Cost?
 
-Signaling isn't always effective or cost-effective.  
+Signaling isn't always effective or cost-effective.
 
 *   **The Problem:**  A company might invest in a costly advertising campaign, but if the product is fundamentally flawed, the signal will be ineffective.
 *   **Geometric Representation:**  Think of the cost of signaling as a "cost function."  The optimal signaling strategy involves finding the right balance between the cost of signaling and the benefit of reducing uncertainty.
@@ -90,12 +90,3 @@ Asymmetric information is a pervasive challenge in economics.  Understanding its
 *   **"Information Economics" by George Akerlof and Robert E. Stiglitz**
 *   **"Behavioral Economics: A Modern Approach" by Daniel Kahneman and Amos Tversky**
 *   **"The Hidden Architecture of the Economy" by Philip A. Caballero, et al.**
-
-
-
-This detailed sub-chapter provides a comprehensive overview of asymmetric information, its types, and its implications for economic analysis. The use of visual representations and intuitive explanations aims to make the concepts accessible to both casual and college readers. The inclusion of formulas and software tools provides further resources for those who want to delve deeper into the topic.
-
-
-
-
-

@@ -23,13 +23,13 @@ Let's break down some key topological concepts and how they apply to economics:
 
 **1. Compact Spaces:**
 
-Imagine a circle.  It's compact.  A compact space is a set where any open cover can be covered by a finite number of open sets.  In simpler terms, it's a space that’s “closed and bounded.”  
+Imagine a circle.  It's compact.  A compact space is a set where any open cover can be covered by a finite number of open sets.  In simpler terms, it's a space that’s “closed and bounded.”
 
 *   **Economic Relevance:**  In economics, we can think of a compact space as a set of possible outcomes or states. For example, in a market, a compact space could represent all possible combinations of goods and services that consumers can buy.  This helps us analyze the stability and predictability of economic systems.  A market with a compact space is more likely to be stable and predictable.
 
 **2. Connectedness:**
 
-A connected space is one where you can travel from any point to any other point without ever leaving the space.  Think of a donut – it's connected.  
+A connected space is one where you can travel from any point to any other point without ever leaving the space.  Think of a donut – it's connected.
 
 *   **Economic Relevance:**  Connectedness is crucial for understanding economic systems.  A connected economy is one where there are well-established supply chains, efficient transportation networks, and strong communication channels.  This allows goods and services to flow smoothly and efficiently.  A disconnected economy might suffer from bottlenecks and inefficiencies.
 
@@ -87,8 +87,3 @@ Topology provides a powerful and intuitive framework for understanding the struc
 **Next Steps:**
 
 In the next section, we'll delve deeper into specific applications of topology in economics, exploring how it can be used to model market structures, network effects, and economic growth.  Stay tuned!
-
-
-
-
-

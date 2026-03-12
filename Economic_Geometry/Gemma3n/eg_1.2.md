@@ -79,15 +79,4 @@ In essence, geometry provides a powerful framework for translating abstract econ
 
 *   **"Visualizing Economics" by David Breton:** A comprehensive guide to using visual methods in economics.
 *   **"The Geometry of Economics" by David Breton:**  A more in-depth exploration of the geometric foundations of economics.
-*   **"Spatial Analysis for Economists" by James D. Smith:**  A classic text on spatial econometrics and geographic information systems.
-
-
-
----
-
-This detailed sub-chapter provides a solid foundation for understanding the power and importance of geometry in economics. It aims to make the concepts accessible and engaging for both casual and college readers, highlighting the practical applications and visual benefits of this interdisciplinary approach.
-
-
-
-
-
+*   **"Spatial Analysis for Economists" by James D. Smith:**  A classic text on spatial econometrics and geographic information system

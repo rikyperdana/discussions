@@ -12,7 +12,7 @@ Imagine you're at a bakery.  You love croissants!  The first croissant gives you
 
 **Geometric Connection:**  We can visualize this with a **utility map**.  This is a graph where the x-axis represents the quantity of a good (e.g., croissants) and the y-axis represents the utility derived from that quantity.  The highest point on the map represents the optimal consumption bundle – the combination of goods that maximizes your utility given your budget constraint.
 
-The **budget constraint** is a line that represents all the combinations of goods you can afford given your income.  It's a line that stretches outwards from your income (the x-intercept) and curves inwards as you consume more of a good.  
+The **budget constraint** is a line that represents all the combinations of goods you can afford given your income.  It's a line that stretches outwards from your income (the x-intercept) and curves inwards as you consume more of a good.
 
 **Geometric Illustration:**  A consumer's optimal consumption bundle lies on the highest-utility feasible consumption bundle, which is the intersection of the utility map and the budget constraint.  This intersection point represents the point where you get the most satisfaction for your money.
 
@@ -47,7 +47,7 @@ In a perfectly competitive market, the price of a good or service tends towards 
 
 **Price elasticity of demand** measures how much the quantity demanded of a good changes in response to a change in its price.  It's a crucial concept for businesses because it helps them predict how changes in price will affect their revenue.
 
-**Geometric Illustration:**  We can visualize price elasticity of demand using a demand curve.  
+**Geometric Illustration:**  We can visualize price elasticity of demand using a demand curve.
 
 *   **Elastic Demand:**  If the demand curve is steep (elastic), a small change in price can lead to a large change in quantity demanded.  For example, if the price of a popular item increases by 10%, the quantity demanded might decrease by 20%.
 *   **Inelastic Demand:**  If the demand curve is flatter (inelastic), a change in price has a small effect on quantity demanded.  For example, if the price of a necessity like medicine increases by 10%, the quantity demanded might only decrease by 1%.
@@ -60,7 +60,7 @@ In a perfectly competitive market, the price of a good or service tends towards 
 
 **In Conclusion:**
 
-Understanding microeconomic principles like consumer choice, production functions, market equilibrium, and price elasticity is fundamental to understanding how economies work.  By using geometric tools to visualize these concepts, we can gain a deeper and more intuitive understanding of the forces that shape our economic lives.  
+Understanding microeconomic principles like consumer choice, production functions, market equilibrium, and price elasticity is fundamental to understanding how economies work.  By using geometric tools to visualize these concepts, we can gain a deeper and more intuitive understanding of the forces that shape our economic lives.
 
 This is just a starting point.  In the next sections, we'll build on these principles and explore more complex economic models, all framed through the lens of geometry.  Stay tuned!
 
@@ -105,8 +105,3 @@ This is just a starting point.  In the next sections, we'll build on these princ
 *   **Market Equilibrium:** A point where the quantity demanded equals the quantity supplied.
 *   **Price Elasticity of Demand:** A measure of how sensitive the quantity demanded of a good is to changes in its price.
 *   **Total Factor Productivity:**  A measure of how efficiently inputs are used to produce output.
-
-
-
-
-

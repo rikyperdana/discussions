@@ -8,7 +8,7 @@ Ever notice how a phone is more useful when you have a friend on the other end? 
 
 **What is Graph Theory?**
 
-Think of a network as a graph.  A **node** is a point in the network – it could represent a person, a company, a product, or even a location. An **edge** is a connection between two nodes.  These edges represent relationships – a friendship, a supply chain link, a social media connection, a transportation route.  
+Think of a network as a graph.  A **node** is a point in the network – it could represent a person, a company, a product, or even a location. An **edge** is a connection between two nodes.  These edges represent relationships – a friendship, a supply chain link, a social media connection, a transportation route.
 
 Graph theory provides a powerful framework for analyzing how these connections influence economic outcomes.  It allows us to visualize, quantify, and understand the dynamics of markets where connectivity matters.
 
@@ -64,8 +64,4 @@ By understanding the power of connectivity through the lens of graph theory, we 
 *   **Network topology** influences the performance of networks.
 *   **Network externalities** are benefits that accrue to users simply because other people are using a good or service.
 *   **Geometric visualizations** can help us understand complex network structures.
-
-
-
-This detailed sub-chapter provides a solid foundation for understanding the power of connectivity in economics. It uses clear language and examples to make the concepts accessible to both casual and college readers. The inclusion of visual aids and real-world applications helps to solidify understanding and make the material more engaging.
 

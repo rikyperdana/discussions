@@ -32,7 +32,7 @@ By the end of this chapter, you'll be able to:
 *   Apply geometric models to analyze real-world economic growth scenarios.
 *   Develop your own geometric models of economic growth.
 
-We hope this chapter provides a solid foundation for your understanding of economic growth.  We encourage you to explore the concepts presented in detail and to experiment with geometric models to gain a deeper appreciation for the forces that shape our economies.  
+We hope this chapter provides a solid foundation for your understanding of economic growth.  We encourage you to explore the concepts presented in detail and to experiment with geometric models to gain a deeper appreciation for the forces that shape our economies.
 
 Let's begin!
 

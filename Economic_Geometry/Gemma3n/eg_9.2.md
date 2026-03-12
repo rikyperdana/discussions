@@ -21,7 +21,7 @@ Heuristics are cognitive rules of thumb that simplify decision-making. They're o
 
 **9.2.3  Geometric Models of Cognitive Biases**
 
-Here's where geometry comes in.  We can use geometric models to visualize and understand how these heuristics work.  
+Here's where geometry comes in.  We can use geometric models to visualize and understand how these heuristics work.
 
 *   **Decision Trees:**  Imagine a decision tree.  Each node represents a choice, and each branch represents a possible outcome.  The path we take through the tree is influenced by our heuristics.  For example, if we're using the availability heuristic, we might be more likely to choose a path that leads to a vivid or recent outcome.
 *   **Network Analysis:**  We can model how heuristics influence our choices as a network.  Nodes represent different options, and edges represent the connections between them.  The strength of the connections can reflect the strength of the heuristic.  For example, if we're using the representativeness heuristic, we might be more likely to choose a path that leads to a node that is similar to our stereotype.
@@ -35,7 +35,7 @@ Cognitive geometry can help us understand how emotions influence our choices.  F
 
 **9.2.5  Applications in Behavioral Economics**
 
-The insights from behavioral economics and cognitive geometry have had a profound impact on economics.  
+The insights from behavioral economics and cognitive geometry have had a profound impact on economics.
 
 *   **Nudge Theory:**  This theory suggests that we can influence people's decisions by providing subtle cues or "nudges."  For example, we can make it easier for people to choose healthy foods by placing them at eye level.
 *   **Behavioral Finance:**  This field applies behavioral economics to financial markets.  It helps us to understand how cognitive biases can lead to irrational investment decisions.
@@ -64,27 +64,8 @@ Bounded rationality and heuristics remind us that we're not perfect decision-mak
 *   **Network Analysis:** (Graph Theory – concepts like centrality, path analysis)
 *   **Framing Effect:** (Simple examples – focus on how presentation impacts choices)
 
-
-
-## Appendix: Software Tools for Economic Geometry (e.g., Python, R, MATLAB)
-
-*   **Python:** Libraries like NumPy, SciPy, and Matplotlib are excellent for data analysis, visualization, and building decision trees.
-*   **R:**  A powerful statistical computing language with packages for network analysis and Bayesian modeling.
-*   **MATLAB:**  A versatile tool for numerical computation, visualization, and building complex models.
-
-
-
 ## Appendix: Further Reading
 
 *   **"Thinking, Fast and Slow" by Daniel Kahneman:** A seminal work on cognitive biases and decision-making.
 *   **"Predictably Irrational" by Dan Ariely:**  A popular book that explores the psychological factors that influence our choices.
 *   **"Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard Thaler and Cass Sunstein:**  A practical guide to using nudges to improve decision-making.
-
-
-
-This detailed sub-chapter provides a comprehensive overview of bounded rationality and heuristics, linking them to geometric models and real-world applications. It aims to be engaging for both casual and college readers, using examples and visual aids to illustrate key concepts.  The inclusion of appendices offers practical resources for further exploration.
-
-
-
-
-

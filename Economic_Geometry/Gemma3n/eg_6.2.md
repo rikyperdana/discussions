@@ -84,5 +84,3 @@ The geometry of repeated games provides a powerful framework for understanding s
 *   "Strategic Behavior" by Ralph Gibbons
 *   "Evolutionary Game Theory" by John Maynard Smith
 *   "A Course in Game Theory" by Steven Tadelis
-
-This detailed sub-chapter provides a solid foundation for understanding the geometric aspects of game theory. It highlights the key concepts, provides examples of geometric representations, and discusses the applications of this approach.  It also includes a list of useful formulas and further reading resources.  Remember to incorporate real-world case studies and visual aids throughout the book to make the concepts more accessible and engaging for your audience.

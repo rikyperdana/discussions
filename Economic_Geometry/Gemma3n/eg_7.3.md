@@ -6,13 +6,13 @@ Ever wondered how economies grow? It's not just about accumulating capital; it's
 
 **Why Networks for Growth?**
 
-Think about how innovation and knowledge spread. It’s rarely a solitary event.  A new technology isn't invented in a vacuum; it's often the result of interactions between researchers, companies, and even individuals.  Similarly, human capital isn't simply accumulated through education; it's built through interactions, mentorship, and the application of skills in real-world scenarios.  
+Think about how innovation and knowledge spread. It’s rarely a solitary event.  A new technology isn't invented in a vacuum; it's often the result of interactions between researchers, companies, and even individuals.  Similarly, human capital isn't simply accumulated through education; it's built through interactions, mentorship, and the application of skills in real-world scenarios.
 
 Network theory provides a powerful framework for understanding these complex interactions.  It allows us to model how ideas, skills, and resources flow through an economy, and how these flows contribute to growth.  Instead of assuming a fixed level of technological progress, we can model it as a dynamic process driven by the evolution of networks.
 
 **The Core Idea:  Innovation as Network Dynamics**
 
-The central idea behind this approach is that *innovation itself is a network phenomenon*.  New technologies aren't just "invented"; they emerge from the interplay of different actors and their interactions.  
+The central idea behind this approach is that *innovation itself is a network phenomenon*.  New technologies aren't just "invented"; they emerge from the interplay of different actors and their interactions.
 
 Imagine a group of researchers working on a new energy source.  Some might be collaborating, others might be competing, and some might be simply sharing information.  The way these actors interact – the *network* of their relationships – significantly impacts the speed and direction of innovation.  A dense network of collaboration can accelerate innovation, while a fragmented network might hinder it.
 
@@ -22,7 +22,7 @@ Here's a breakdown of how network theory can be applied to model endogenous grow
 
 *   **Knowledge Diffusion:**  Networks can model how knowledge spreads from experts to practitioners, from research labs to businesses.  This is crucial for understanding how new technologies are adopted and how human capital is developed.  We can use network analysis to identify "knowledge hubs" – clusters of individuals and organizations that are particularly effective at disseminating information.
 *   **Human Capital Formation:**  Networks can represent the relationships between individuals and their mentors, teachers, and peers.  This helps us understand how human capital is accumulated and how skills are transferred.  For example, a student who has strong connections with professors and alumni is more likely to develop advanced skills.
-*   **Innovation Diffusion:**  Networks can model how new ideas and technologies spread through an economy.  This is particularly important for understanding how innovation can be accelerated by creating networks of innovators and adopters.  
+*   **Innovation Diffusion:**  Networks can model how new ideas and technologies spread through an economy.  This is particularly important for understanding how innovation can be accelerated by creating networks of innovators and adopters.
 *   **Entrepreneurship:**  Networks can help us understand how entrepreneurs find funding, talent, and customers.  A strong network of support can significantly increase the likelihood of entrepreneurial success.
 *   **Specialization and Skill Development:**  Networks can model how individuals specialize in different industries and develop specific skills.  This is important for understanding how economies can become more efficient and productive.
 

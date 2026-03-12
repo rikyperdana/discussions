@@ -21,12 +21,3 @@ This chapter will provide you with the tools and insights to analyze the complex
 Let's embark on this journey into the world of oligopolies and unlock the power of geometric modeling!
 
 
-
----
-
-**Note:** This preface is designed to be comprehensive and engaging, providing a clear roadmap for the reader and a gentle test of their prior knowledge. It aims to pique their interest and motivate them to engage with the material in the chapter. The questions posed are designed to be easily answerable and to reinforce the key concepts that will be covered. The use of clear and concise language ensures that the preface is accessible to readers with varying levels of mathematical background.
-
-
-
-
-

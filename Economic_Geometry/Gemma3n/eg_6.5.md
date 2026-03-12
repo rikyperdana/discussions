@@ -28,7 +28,7 @@ Cooperative games are where the magic happens.  In these scenarios, players can 
 
 ### 6.5.3 Non-Cooperative Games: The Struggle for Individual Gain
 
-Non-cooperative games are where the players act independently, pursuing their own self-interest.  Think of a poker game – each player is trying to maximize their own winnings, regardless of what other players do.  
+Non-cooperative games are where the players act independently, pursuing their own self-interest.  Think of a poker game – each player is trying to maximize their own winnings, regardless of what other players do.
 
 **Geometric Representation:**  In non-cooperative games, we often use **supply and demand curves** or **utility functions** to represent the players' preferences and strategies.
 

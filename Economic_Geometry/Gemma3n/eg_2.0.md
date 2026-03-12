@@ -20,7 +20,7 @@ Consider a simple example: Imagine a supply and demand curve.  Without geometry,
 
 This chapter will give you the tools to do just that – to translate economic problems into geometric representations and to use those representations to gain deeper insights. 
 
-We’ll introduce you to the fundamental concepts, providing clear explanations and practical examples.  By the end of this chapter, you’ll be able to confidently navigate the world of geometry and apply it to solve real-world economic problems.  
+We’ll introduce you to the fundamental concepts, providing clear explanations and practical examples.  By the end of this chapter, you’ll be able to confidently navigate the world of geometry and apply it to solve real-world economic problems.
 
 Let's begin!
 
@@ -33,8 +33,3 @@ Let's begin!
 *  *Introduction to Topology* by James M. Gill
 *  *Linear Algebra and Its Applications* by David C. Lay
 *  *Graph Theory* by Reinhard Diestel
-
-
-
-
-
