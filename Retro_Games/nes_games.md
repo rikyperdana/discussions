@@ -1,4 +1,5 @@
 List all the best nes games I must play on diverse categories and why should I play them
+
 ---
 
 Okay, let's dive into the best NES games! This is a tough one, as the NES library is incredibly strong, but I'll break it down into categories with explanations of why each game is a must-play.  I'll try to cover a range of genres and highlight what makes them special.
