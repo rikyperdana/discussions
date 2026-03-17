@@ -4,7 +4,7 @@ How to use the Ollama engine in this folder:
    make sure that your ollama server runs well
 2. Create a markdown based prompt text which contains
    all your prior sources and the questions
-3. Add line of separating dashes
+3. Add line of separating dashes (optional)
 4. Execute the Gemma3n model with:
    `./ai.sh file_name`
 5. Just wait up until the process finished
@@ -23,3 +23,4 @@ How to update the executable:
 
 1. If you found a better model to be the default,
    just replace the model name in `ai.sh`
+2. Feel free to change the model size as well
