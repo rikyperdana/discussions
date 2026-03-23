@@ -1,6 +1,6 @@
                                             Where Does Meaning Live in a Sentence? Math Might Tell Us.
 
-   By Joseph Howlett
+By Joseph Howlett
 
    Growing up, Tai-Danae Bradley had no love for math. In 2008, she entered the City College of New York, where she played for the basketball
    team and hoped to start a career in sports nutrition. She saw her math courses as a curricular hurdle that only geniuses could really excel

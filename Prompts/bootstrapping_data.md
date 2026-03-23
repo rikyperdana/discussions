@@ -1,4 +1,5 @@
 What is bootstrapping in statistics? Is it even ethical to guess the value of missing data using the neighboring values?
+
 ## Bootstrapping in Statistics
 
 Bootstrapping is a powerful resampling technique used in statistics to estimate the sampling distribution of a statistic (like a mean, median, standard deviation, correlation coefficient, etc.) when the theoretical sampling distribution is unknown or difficult to calculate.  It's a way to get insights into the variability of your statistic based on the data you *do* have.
@@ -87,8 +88,4 @@ Using neighboring values (imputation) to handle missing data is not inherently u
 
 
 **Disclaimer:** I am an AI chatbot and cannot provide definitive ethical advice. This information is for educational purposes only and should not be considered a substitute for professional guidance.  Consult with a statistician or data scientist if you have specific questions about handling missing data in your research.
-
-
-
-
 
