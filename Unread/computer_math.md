@@ -1,75 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   [ Submit ]
-   Can Computers Be Mathematicians?
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   The Joy of Why
-
                                                          Can Computers Be Mathematicians?
 
    By Steven Strogatz
@@ -84,21 +12,6 @@
    Michael Driver for Quanta Magazine
 
 Introduction
-
-   [IMG]
-   By Steven Strogatz
-
-   Podcast Host
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   June 29, 2022
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   artificial intelligence computer science Fermat’s Last Theorem mathematics proofs The Joy of Why All topics
-   [IMG]
 
    How do you teach mathematics to an artificial intelligence? AI has already bested humans at problem-solving tasks that include games like
    chess and Go. But before any task can be tackled by a machine, it must be reinterpreted as directions in a language that computers can
@@ -439,16 +352,6 @@ Transcript
    now, when I have graduate students, I see this all the time. The student can work for years and wonder, “Are we any closer to having a good
    Ph.D. problem, and a good solution to it?”
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. Proof Assistant Makes Jump to Big-League Math
-
-    2. Machine Learning Becomes a Mathematical Collaborator
-
-    3. A Master of Numbers and Shapes Who Is Rewriting Arithmetic
-
    Buzzard (30:51): Math is hard. This is the problem. And it’s hard in several different distinct ways. I mean, one thing we’re doing right
    now is we’re teaching the computer scientists just how deeply hard mathematics is. And I think that one of the things that’s happening in
    this collaboration is that computer scientists are beginning to learn more about the nature of what modern mathematics actually looks like.
@@ -469,139 +372,9 @@ Related:
    and artwork for the episodes is by Michael Driver and Samuel Velasco. I’m your host, Steve Strogatz. If you have any questions or comments
    for us, please email us at [email protected]. Thanks for listening.
 
-   Share this article
-   Copied!
+This podcast episode features a conversation between Steve Strogatz and Kevin Buzzard about the potential of AI to assist in mathematical research. They discuss how the computer algebra system Lean is being used to rigorously verify mathematical proofs and explore new avenues in mathematics.
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+Buzzard highlights the unique challenges of teaching AI to be a creative mathematician, contrasting it with the success of AI in more constrained domains like chess and Go. He argues that mathematics is a "single-player game" requiring human intuition and the ability to discern progress, which current AI struggles with.
 
-   Newsletter
+The conversation emphasizes that while AI excels at the "scientific" aspects of mathematics – rigorous definitions and proofs – it currently lacks the human capacity for generating novel ideas and understanding the broader significance of mathematical developments. However, the collaboration between mathematicians and computer scientists is providing valuable insights into the nature of modern mathematics, potentially paving the way for future advancements in AI's ability to contribute to the field.
 
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   [IMG]
-   By Steven Strogatz
-
-   Podcast Host
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   June 29, 2022
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   artificial intelligence computer science Fermat’s Last Theorem mathematics proofs The Joy of Why All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Mathematics
-
-   The Math That Explains Why Bell Curves Are Everywhere
-   An illustration of roller coaster tracks in the shape of bell curves.
-   explainers
-
-  The Math That Explains Why Bell Curves Are Everywhere
-
-   By Joseph Howlett
-   March 16, 2026
-   Read Later
-   New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-   [IMG]
-   number theory
-
-  New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-
-   By Paulina Rowińska
-   March 6, 2026
-   Read Later
-   Can the Most Abstract Math Make the World a Better Place?
-   An illustration showing a variety of objects — a factory, cloud, polar bear, fish, and more — connected by straight and looping arrows to
-   boxes containing mathematical notation.
-   Qualia
-
-  Can the Most Abstract Math Make the World a Better Place?
-
-   By Natalie Wolchover
-   March 4, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Dendritic ice crystals grow from top to bottom across the frame of a video.
-
-Next article
-
-   Controversy Continues Over Whether Hot Water Freezes Faster Than Cold
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

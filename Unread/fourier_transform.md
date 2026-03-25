@@ -1,74 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   What Is the Fourier Transform?
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   harmonic analysis
-
                                                           What Is the Fourier Transform?
 
    By Shalma Wegsman
@@ -85,21 +14,6 @@
    Sierra Boucher; Samuel Velasco/Quanta Magazine
 
 Introduction
-
-   a woman in a black sweater
-   By Shalma Wegsman
-
-   Contributing Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   September 3, 2025
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   applied math explainers harmonic analysis history of science mathematics All topics
-   [IMG]
 
    As we listen to a piece of music, our ears perform a calculation. The high-pitched flutter of the flute, the middle tones of the violin, and
    the low hum of the double bass fill the air with pressure waves of many different frequencies. When the combined sound wave descends through
@@ -225,16 +139,6 @@ Encore
    probability — represented by a sharp peak in the graph of the function — the Fourier transform will be very spread out. It will be
    impossible to determine what the particle’s momentum should be. The opposite is also true.
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. ‘Once in a Century’ Proof Settles Math’s Kakeya Conjecture
-
-    2. How Wavelets Allow Researchers to Transform, and Understand, Data
-
-    3. Mathematicians Discover the Perfect Way to Multiply
-
    The Fourier transform has spread its roots throughout pure mathematics research, too. Harmonic analysis — which studies the Fourier
    transform, as well as how to reverse it to rebuild the original function — is a powerful framework for studying waves. Mathematicians have
    also found that harmonic analysis has deep and unexpected connections to number theory. They’ve used these connections to explore
@@ -247,139 +151,22 @@ Related:
    Foundation funding decisions have no influence on our coverage. More information about the relationship between Quanta Magazine and the
    Simons Foundation is available here.
 
-   Share this article
-   Copied!
+## Summary of "What Is the Fourier Transform?"
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+This article explains the Fourier transform, a fundamental mathematical tool discovered by Jean-Baptiste Joseph Fourier in the early 19th century.  Essentially, the Fourier transform **decomposes any complex function into its constituent frequencies**, revealing the simple sine and cosine waves that make it up. 
 
-   Newsletter
+The article uses the analogy of a musician analyzing a chord to illustrate the concept.  It details how the transform works by analyzing the contribution of each frequency to the original function, and how this can simplify complex problems. 
 
-   Get Quanta Magazine delivered to your inbox
+Beyond its initial application in understanding heat conduction, the Fourier transform has had a profound impact on numerous fields, including:
 
-   Subscribe now
-   Recent newsletters
-   a woman in a black sweater
-   By Shalma Wegsman
+* **Signal processing:**  Used for audio compression (like JPEGs), noise reduction, and analyzing signals in various forms.
+* **Physics:**  Essential in understanding waves, quantum mechanics (including the uncertainty principle), and gravitational waves.
+* **Image processing:**  Used for image compression and analysis.
+* **Mathematics:**  It spurred the development of harmonic analysis, connecting to number theory and other areas.
 
-   Contributing Writer
+The article highlights the transformative nature of the Fourier transform, stating that it's "hard to overestimate its influence" and that a significant portion of modern mathematics would disappear without it.  The development of the Fast Fourier Transform in the 1960s made it a practical tool used in everyday life.
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   September 3, 2025
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   View PDF/Print Mode
-   applied math explainers harmonic analysis history of science mathematics All topics
-   [IMG]
-   Share this article
-   Copied!
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Mathematics
-
-   The Math That Explains Why Bell Curves Are Everywhere
-   An illustration of roller coaster tracks in the shape of bell curves.
-   explainers
-
-  The Math That Explains Why Bell Curves Are Everywhere
-
-   By Joseph Howlett
-   March 16, 2026
-   Read Later
-   New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-   [IMG]
-   number theory
-
-  New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-
-   By Paulina Rowińska
-   March 6, 2026
-   Read Later
-   Can the Most Abstract Math Make the World a Better Place?
-   An illustration showing a variety of objects — a factory, cloud, polar bear, fish, and more — connected by straight and looping arrows to
-   boxes containing mathematical notation.
-   Qualia
-
-  Can the Most Abstract Math Make the World a Better Place?
-
-   By Natalie Wolchover
-   March 4, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Circuit board with a snowglobe inside
-
-Next article
-
-   ‘World Models,’ an Old Idea in AI, Mount a Comeback
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

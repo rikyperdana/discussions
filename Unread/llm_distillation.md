@@ -1,74 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   How Distillation Makes AI Models Smaller and Cheaper
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   artificial intelligence
-
                                                How Distillation Makes AI Models Smaller and Cheaper
 
    By Amos Zeeberg
@@ -82,24 +11,6 @@
    receiving knowledge.
 
    Nico H. Brausch for Quanta Magazine
-
-Introduction
-
-   [IMG]
-   By Amos Zeeberg
-
-   Contributing Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   July 18, 2025
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   artificial intelligence computer science computers explainers large language models machine learning natural language processing neural
-   networks All topics
-   [IMG]
 
    The Chinese AI company DeepSeek released a chatbot earlier this year called R1, which drew a huge amount of attention. Most of it focused on
    the fact that a relatively small and unknown company said it had built a chatbot that rivaled the performance of those from the world’s most
@@ -154,16 +65,6 @@ Explosive Growth
    Distillation gradually became ubiquitous, and it’s now offered as a service by companies such as Google, OpenAI, and Amazon. The original
    distillation paper, still published only on the arxiv.org preprint server, has now been cited more than 25,000 times.
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. How Can AI ID a Cat? An Illustrated Guide.
-
-    2. Why Do Researchers Care About Small Language Models?
-
-    3. Why Language Models Are So Hard To Understand
-
    Considering that the distillation requires access to the innards of the teacher model, it’s not possible for a third party to sneakily
    distill data from a closed-source model like OpenAI’s o1, as DeepSeek was thought to have done. That said, a student model could still learn
    quite a bit from a teacher model just through prompting the teacher with certain questions and using the answers to train its own models —
@@ -175,139 +76,17 @@ Related:
    much larger open-source model. “We were genuinely surprised by how well distillation worked in this setting,” said Dacheng Li, a Berkeley
    doctoral student and co-student lead of the NovaSky team. “Distillation is a fundamental technique in AI.”
 
-   Share this article
-   Copied!
+## Summary of "How Distillation Makes AI Models Smaller and Cheaper"
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+The article explains **knowledge distillation**, a technique used to create smaller, more efficient AI models by training a "student" model using the knowledge of a larger, more powerful "teacher" model. 
 
-   Newsletter
+Originating in 2015, distillation addresses a weakness in machine learning where incorrect answers are treated equally. By leveraging the "soft targets" (probabilities) produced by the teacher model, the student model learns not just the correct answers, but also the nuances and relationships between different possibilities. This allows the student to achieve comparable accuracy to the teacher model with significantly less computational power and cost.
 
-   Get Quanta Magazine delivered to your inbox
+The recent success of DeepSeek's chatbot, R1, which reportedly rivaled OpenAI's GPT-4 using a fraction of the resources, has brought distillation into the spotlight. While there are accusations of unauthorized data acquisition from OpenAI, the core technique of distillation is a well-established and widely used method in the AI industry, offered by major companies like Google, OpenAI, and Amazon. 
 
-   Subscribe now
-   Recent newsletters
-   [IMG]
-   By Amos Zeeberg
+Researchers are continually finding new applications for distillation, including improving chain-of-thought reasoning models.  Ultimately, knowledge distillation is a fundamental technique driving efficiency and accessibility in the field of artificial intelligence.
 
-   Contributing Writer
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   July 18, 2025
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   View PDF/Print Mode
-   artificial intelligence computer science computers explainers large language models machine learning natural language processing neural
-   networks All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Computer Science
-
-   Quantum Cryptography Pioneers Win Turing Award
-   A collage with Gilles Brassard (left) and Charles Bennett.
-   quantum information theory
-
-  Quantum Cryptography Pioneers Win Turing Award
-
-   By Ben Brubaker
-   March 18, 2026
-   Read Later
-   Why Do Humanoid Robots Still Struggle With the Small Stuff?
-   An illustration showing a variety of humanoid robots, including Atlas, Digit, a science fiction robot, and a toy, along with floating
-   stairs.
-   Qualia
-
-  Why Do Humanoid Robots Still Struggle With the Small Stuff?
-
-   By John Pavlus
-   March 13, 2026
-   Read Later
-   A New Complexity Theory for the Quantum Age
-   [IMG]
-   Q&A
-
-  A New Complexity Theory for the Quantum Age
-
-   By Ben Brubaker
-   February 17, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-
-Next article
-
-   A New Geometry for Einstein’s Theory of Relativity
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

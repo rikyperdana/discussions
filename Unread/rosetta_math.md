@@ -1,74 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   A Rosetta Stone for Mathematics
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   number theory
-
                                                          A Rosetta Stone for Mathematics
 
    By Kevin Hartnett
@@ -82,21 +11,6 @@
    Kristina Armitage/Quanta Magazine
 
 Introduction
-
-   Kevin Hartnett
-   By Kevin Hartnett
-
-   Contributing Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   May 6, 2024
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   algebra geometry Langlands program mathematics number theory polynomials All topics
-   [IMG]
 
    In 1940, from a jailhouse in Rouen, France, André Weil wrote one of the most consequential letters of 20th-century mathematics. He was
    serving time for refusing to join the French army, and he filled his days in part by writing letters to his sister, Simone, an accomplished
@@ -218,16 +132,6 @@ Introduction
    Kazhdan have sharpened the link between the two versions. They redefined the geometric Langlands program in terms more consistent with
    Langlands’ initial vision, yielding a more exact translation between the two.
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. Big Question About Primes Proved in Small Number Systems
-
-    2. Robert Langlands, Mathematical Visionary, Wins the Abel Prize
-
-    3. New Shape Opens ‘Wormhole’ Between Numbers and Geometry
-
    For Frenkel, the impact of Weil’s Rosetta stone encapsulates the way mathematics develops. Some new ideas emerge as the logical outgrowth of
    things that are already known. But others — and often the most important ones — are wholly original.
 
@@ -240,140 +144,19 @@ Related:
    Correction: May 6, 2024
    This article originally said that the coefficients of irreducible polynomials encode prime numbers. They do not, though irreducible
    polynomials are analogous to primes.
+## A Rosetta Stone for Mathematics: Summary
 
-   Share this article
-   Copied!
+This article details André Weil's groundbreaking 1940 letter outlining a "Rosetta Stone" for mathematics – a way to connect three seemingly distinct fields: number theory, geometry, and the study of finite fields. 
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+Weil envisioned these fields as having underlying commonalities, and he proposed that translating concepts between them could unlock new insights. His idea foreshadowed the modern-day Langlands program, a major initiative in contemporary mathematics aiming to unify these fields.
 
-   Newsletter
+The key to Weil's Rosetta Stone lies in finite fields, small number systems with properties that bridge number theory and geometry. He demonstrated how polynomials and prime/composite numbers in number theory have analogous representations in finite fields, allowing for translation and new problem-solving approaches.
 
-   Get Quanta Magazine delivered to your inbox
+Over the following decades, mathematicians like Pierre Deligne and Alexander Grothendieck built upon Weil's ideas, developing concrete methods and conjectures that solidified the connections between these fields. The Langlands program has continued to progress, with recent work focusing on refining the translations between the original number-theory vision and later geometric versions, ultimately leading to deeper understanding and advancements in mathematics. 
 
-   Subscribe now
-   Recent newsletters
-   Kevin Hartnett
-   By Kevin Hartnett
+The article emphasizes that Weil's contribution wasn't just a dream but a concrete framework that spurred significant mathematical research and continues to guide progress in the field. 
 
-   Contributing Writer
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   May 6, 2024
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   View PDF/Print Mode
-   algebra geometry Langlands program mathematics number theory polynomials All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Mathematics
-
-   The Math That Explains Why Bell Curves Are Everywhere
-   An illustration of roller coaster tracks in the shape of bell curves.
-   explainers
-
-  The Math That Explains Why Bell Curves Are Everywhere
-
-   By Joseph Howlett
-   March 16, 2026
-   Read Later
-   New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-   [IMG]
-   number theory
-
-  New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-
-   By Paulina Rowińska
-   March 6, 2026
-   Read Later
-   Can the Most Abstract Math Make the World a Better Place?
-   An illustration showing a variety of objects — a factory, cloud, polar bear, fish, and more — connected by straight and looping arrows to
-   boxes containing mathematical notation.
-   Qualia
-
-  Can the Most Abstract Math Make the World a Better Place?
-
-   By Natalie Wolchover
-   March 4, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   An illustration shows individual bacterial cells separated by barriers of DNA
-
-Next article
-
-   The Mystery of the Missing Multicellular Prokaryotes
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

@@ -1,74 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   Can the Most Abstract Math Make the World a Better Place?
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   Qualia
-
                                             Can the Most Abstract Math Make the World a Better Place?
 
    By Natalie Wolchover
@@ -84,18 +13,6 @@
 
 Introduction
 
-   A smiling woman
-   By Natalie Wolchover
-
-   Columnist
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   March 4, 2026
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
    applied math artificial intelligence category theory climate models complex systems essays mathematics modeling Qualia All topics
 
    Qualia: Essays that go where curiosity leads
@@ -138,21 +55,6 @@ Introduction
    relationships to others. What is a black king in chess? “You can say it’s a bit of wood carved into a certain shape and painted black, but
    that’s not important; it could be a saltshaker,” said Tom Leinster, a mathematician at the University of Edinburgh. Rather, the black king
    is defined by how it moves on a chessboard and how it can capture opposing pieces or be checked by them.
-
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   A photograph of lightning over evergreen-covered hills, overlaid with arrows and mathematical notation.
-
-   Jeremy Howard via flickr, modified by Quanta
 
    A category is a collection of objects and these relationships, or morphisms. Let’s consider that chess set as a category. To do so, you
    might depict it as a diagram featuring little boxes for each object — legal chess positions — and then connect the boxes with arrows to
@@ -255,20 +157,6 @@ Introduction
    complicated in ways we can’t fully fathom,” he said. Genes aren’t discrete parts of a machine with their own purposes, for instance; they
    all have numerous roles and impacts. In an ecosystem, there’s no waste; one creature’s poop is another’s feast.
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. Where Does Meaning Live in a Sentence? Math Might Tell Us.
-
-    2. Conducting the Mathematical Orchestra From the Middle
-
-    3. With Category Theory, Mathematics Escapes From Equality
-
-    4. How Climate Scientists Saw the Future Before It Arrived
-
-    5. Climate Physicists Face the Ghosts in Their Machines: Clouds
-
    “I don’t think we have the math to understand such systems yet,” said Baez, who thinks modeling these systems will involve new categories
    with previously unstudied logical structures. “That’s the kind of mathematics I would like to develop, because I have this hope that it will
    help us be kinder to the world if we understand the world a bit better and not think of the natural world as raw materials for our machines
@@ -285,126 +173,26 @@ Related:
    An earlier version of the text described a one-dimensional vector space as a “category.” Rather, they are considered objects in a category
    in which the morphisms are linear maps.
 
-   A smiling woman
-   By Natalie Wolchover
+## Summary of "Can the Most Abstract Math Make the World a Better Place?"
 
-   Columnist
+This article explores the burgeoning field of **applied category theory**, a highly abstract branch of mathematics, and its potential to address real-world problems, particularly those related to environmental and societal complexity. 
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+The author investigates the idea, championed by physicist John Baez, that this "green math" could offer a more robust way to model complex systems like the biosphere, climate, and even artificial intelligence. 
 
-   March 4, 2026
+**Key points:**
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+* **Category theory's core:** It focuses on relationships between objects rather than the objects themselves, offering a flexible framework for modeling diverse systems.
+* **Current applications:** While still developing, applied category theory is showing promise in areas like epidemiological modeling (tracking disease outbreaks) and AI safety (ensuring AI systems are reliable).
+* **Addressing limitations of traditional modeling:** Conventional methods often struggle with the interconnectedness and complexity of real-world systems, leading to errors and a lack of integration.
+* **Challenges:** The field faces skepticism due to the abstract nature of the math and the significant investment required to implement it.
+* **Hope for the future:** Proponents believe that category theory's ability to handle complex relationships could lead to more accurate, flexible, and integrated models, ultimately helping us better understand and address critical global challenges like climate change and pandemics.
+* **Philosophical underpinnings:** The movement is driven by a desire to move away from viewing the natural world as mere resources for exploitation and towards a more holistic and respectful understanding.
 
-   View PDF/Print Mode
-   applied math artificial intelligence category theory climate models complex systems essays mathematics modeling Qualia All topics
-   Share this article
-   Copied!
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   Newsletter
+Essentially, the article argues that despite its abstract nature, applied category theory offers a powerful new toolkit for tackling some of humanity's most pressing problems by providing a more sophisticated and adaptable way to model complex systems.
 
-   Get Quanta Magazine delivered to your inbox
 
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
 
-   Get highlights of the most important news delivered to your email inbox
 
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
 
-Also in Mathematics
-
-   The Math That Explains Why Bell Curves Are Everywhere
-   An illustration of roller coaster tracks in the shape of bell curves.
-   explainers
-
-  The Math That Explains Why Bell Curves Are Everywhere
-
-   By Joseph Howlett
-   March 16, 2026
-   Read Later
-   New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-   [IMG]
-   number theory
-
-  New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-
-   By Paulina Rowińska
-   March 6, 2026
-   Read Later
-   The Man Who Stole Infinity
-   [IMG]
-   foundations of mathematics
-
-  The Man Who Stole Infinity
-
-   By Joseph Howlett
-   February 25, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   A mosaic of photos of tiny crystals as seen through a microscope.
-
-Next article
-
-   What Crystals Older Than the Sun Reveal About the Start of the Solar System
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

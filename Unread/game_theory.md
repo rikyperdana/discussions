@@ -1,75 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   [ Submit ]
-   In Game Theory, No Clear Path to Equilibrium
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   game theory
-
                                                    In Game Theory, No Clear Path to Equilibrium
 
    By Erica Klarreich
@@ -84,23 +12,6 @@
 
    Eric Nyquist for Quanta Magazine
 
-Introduction
-
-   [IMG]
-   By Erica Klarreich
-
-   Contributing Correspondent
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   July 18, 2017
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   economics game theory mathematics Quanta Podcast All topics
-   [IMG]
-
    In 1950, John Nash — the mathematician later featured in the book and film “A Beautiful Mind” — wrote a two-page paper that transformed the
    theory of economics. His crucial, yet utterly simple, idea was that any competitive game has a notion of equilibrium: a collection of
    strategies, one for each player, such that no player can win more by unilaterally switching to a different strategy.
@@ -109,13 +20,6 @@ Introduction
    behavior not only in economics but also in psychology, evolutionary biology and a host of other fields. Its influence on economic theory “is
    comparable to that of the discovery of the DNA double helix in the biological sciences,” wrote Roger Myerson of the University of Chicago,
    another economics Nobelist.
-
-   All episodes  Your browser does not support the audio element.
-   [ Submit ]
-   _____________________
-   00:00 / 15:32
-   APPLE
-   SPOTIFY
 
    When players are at equilibrium, no one has a reason to stray. But how do players get to equilibrium in the first place? In contrast with,
    say, a ball rolling downhill and coming to rest in a valley, there is no obvious force guiding game players toward a Nash equilibrium.
@@ -282,16 +186,6 @@ A Trusted Adviser
    In the kinds of complex games for which Nash equilibrium is hard to reach, correlated equilibrium is “the natural leading contender” for a
    replacement solution concept, Nisan said.
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. Landmark Algorithm Breaks 30-Year Impasse
-
-    2. Game Theory Calls Cooperation Into Question
-
-    3. The Game Theory of Life
-
    The fact that humanity came up with the idea of Nash equilibrium before correlated equilibrium may be just an accident of history, Myerson
    said. “People think that the ideas that evolved earlier are the more fundamental ones,” he said, but in this case, “who’s to say what’s a
    more fundamental idea?”
@@ -304,139 +198,21 @@ Related:
 
    This article was reprinted in Spanish at Investigacionyciencia.es.
 
-   Share this article
-   Copied!
+## Summary of "In Game Theory, No Clear Path to Equilibrium"
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+The article discusses a recent study by Aviad Rubinstein and Yakov Babichenko that reveals a fundamental limitation in game theory: **there's no guaranteed way for players to efficiently reach a Nash equilibrium, even with repeated interactions.**
 
-   Newsletter
+John Nash's concept of equilibrium, where no player can benefit by unilaterally changing their strategy, is a cornerstone of economic theory. However, the new research shows that achieving this equilibrium isn't always feasible. While Nash proved that games always *have* an equilibrium, he didn't offer a method for finding it.
 
-   Get Quanta Magazine delivered to your inbox
+The study demonstrates that even with repeated play and attempts to learn from past rounds, players may struggle to converge to even an approximate Nash equilibrium. This is because the amount of information needed to coordinate strategies grows exponentially with the number of players, quickly becoming prohibitive.
 
-   Subscribe now
-   Recent newsletters
-   [IMG]
-   By Erica Klarreich
+The article contrasts Nash equilibrium with **correlated equilibrium**, a more general concept where players receive advice from a trusted mediator. Correlated equilibria are often more tractable mathematically and can arise naturally in many real-life scenarios.  The research suggests that correlated equilibrium might be a more fundamental and natural concept than Nash equilibrium, especially in complex, many-player games.
 
-   Contributing Correspondent
+While correlated equilibria often emerge in the long run, the article notes that this doesn't necessarily mean players are playing optimally in every individual round. The question of how rational players should act remains an open area of research. 
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+In essence, the article highlights a significant challenge in applying game theory to real-world situations, emphasizing the need for more sophisticated approaches like correlated equilibrium to account for the complexities of many-player interactions.
 
-   July 18, 2017
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   View PDF/Print Mode
-   economics game theory mathematics Quanta Podcast All topics
-   [IMG]
-   Share this article
-   Copied!
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Computer Science
-
-   Quantum Cryptography Pioneers Win Turing Award
-   A collage with Gilles Brassard (left) and Charles Bennett.
-   quantum information theory
-
-  Quantum Cryptography Pioneers Win Turing Award
-
-   By Ben Brubaker
-   March 18, 2026
-   Read Later
-   Why Do Humanoid Robots Still Struggle With the Small Stuff?
-   An illustration showing a variety of humanoid robots, including Atlas, Digit, a science fiction robot, and a toy, along with floating
-   stairs.
-   Qualia
-
-  Why Do Humanoid Robots Still Struggle With the Small Stuff?
-
-   By John Pavlus
-   March 13, 2026
-   Read Later
-   A New Complexity Theory for the Quantum Age
-   [IMG]
-   Q&A
-
-  A New Complexity Theory for the Quantum Age
-
-   By Ben Brubaker
-   February 17, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Eva Silverstein at Stanford University
-
-Next article
-
-   Eva Silverstein’s Spirals and Strings
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

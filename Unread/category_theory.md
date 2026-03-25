@@ -202,3 +202,17 @@ Where are you hoping your work will take you?
 
    A smiling man with curly hair
    By Joseph Howlett
+## Summary of "Where Does Meaning Live in a Sentence? Math Might Tell Us."
+
+This article explores how mathematics, specifically category theory, can offer new insights into the nature of language and meaning. Tai-Danae Bradley, a researcher at SandboxAQ and visiting professor, argues that language isn't just a collection of words, but a structured system with underlying mathematical principles. 
+
+She uses category theory, a framework that connects different mathematical fields, to analyze language by considering words and phrases as objects and their relationships as morphisms. This allows for the identification of patterns and structures that might otherwise be overlooked. 
+
+Bradley and her team are using this approach to understand how meaning emerges from combinations of words, how AI-generated text differs from human language, and even to potentially uncover new mathematical concepts inspired by language. Their work suggests that meaning might be encoded in the very statistics of how words are used together, and that studying language through a mathematical lens could lead to a deeper understanding of both language itself and the fundamental structures of the universe. 
+
+Ultimately, Bradley hopes her research will not only shed light on language but also inspire new mathematical discoveries.
+
+
+
+
+

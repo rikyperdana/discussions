@@ -1,74 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   How Big Data Carried Graph Theory Into New Dimensions
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   graph theory
-
                                               How Big Data Carried Graph Theory Into New Dimensions
 
    By Stephen Ornes
@@ -81,22 +10,6 @@
    Mike Hughes for Quanta Magazine
 
 Introduction
-
-   [IMG]
-   By Stephen Ornes
-
-   Contributing Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   August 19, 2021
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   applied math big data computer science graph theory mathematics neural networks topology All topics
-   [IMG]
-
    Graph theory isn’t enough.
 
    The mathematical language for talking about connections, which usually depends on networks — vertices (dots) and edges (lines connecting
@@ -310,139 +223,20 @@ Related:
    Ultimately, Grochow said, these tools represent a kind of freedom, not just allowing researchers to better understand their data, but
    allowing mathematicians and computer scientists to explore new worlds of possibilities. “There’s endless stuff to explore. It’s interesting
    and beautiful, and a source of a lot of great questions.”
+## Article Summary: Beyond the Basic Graph - Exploring Higher-Order Interactions in Data
 
-   Share this article
-   Copied!
+This article discusses the growing trend in data analysis to move beyond traditional graph theory and explore "higher-order interactions." While graphs represent connections between individual entities, real-world data often involves complex relationships between groups of entities (e.g., three or more people influencing each other). 
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+The article highlights several mathematical tools being used to model these more intricate relationships:
 
-   Newsletter
+* **Hypergraphs:**  An extension of graphs that allows for connections between multiple nodes.
+* **Topology:**  Focuses on the geometric properties of networks, revealing hidden structures and dimensions.
+* **Higher-Order Markov Chains:**  Models sequential processes by considering multiple previous states, useful for analyzing systems like web browsing or traffic flow.
+* **Tensors:**  Represent data in a multi-dimensional array format, enabling the analysis of complex, high-dimensional datasets.
 
-   Get Quanta Magazine delivered to your inbox
+The article emphasizes that these advanced tools are driven by the data itself, leading to new mathematical questions and possibilities. While not always necessary, higher-order methods can reveal crucial insights missed by traditional graph theory, particularly in areas like social networks and biological systems.  The field is still developing, with many open questions about when and how to best apply these techniques. Ultimately, these tools offer researchers a powerful new way to understand and analyze complex data.
 
-   Subscribe now
-   Recent newsletters
-   [IMG]
-   By Stephen Ornes
 
-   Contributing Writer
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   August 19, 2021
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   applied math big data computer science graph theory mathematics neural networks topology All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Computer Science
-
-   Quantum Cryptography Pioneers Win Turing Award
-   A collage with Gilles Brassard (left) and Charles Bennett.
-   quantum information theory
-
-  Quantum Cryptography Pioneers Win Turing Award
-
-   By Ben Brubaker
-   March 18, 2026
-   Read Later
-   Why Do Humanoid Robots Still Struggle With the Small Stuff?
-   An illustration showing a variety of humanoid robots, including Atlas, Digit, a science fiction robot, and a toy, along with floating
-   stairs.
-   Qualia
-
-  Why Do Humanoid Robots Still Struggle With the Small Stuff?
-
-   By John Pavlus
-   March 13, 2026
-   Read Later
-   A New Complexity Theory for the Quantum Age
-   [IMG]
-   Q&A
-
-  A New Complexity Theory for the Quantum Age
-
-   By Ben Brubaker
-   February 17, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-
-Next article
-
-   How Big Can the Quantum World Be? Physicists Probe the Limits.
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

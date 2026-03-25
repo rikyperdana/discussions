@@ -1,74 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   Why Winning in Rock-Paper-Scissors (and in Life) Isn’t Everything
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   Quantized Academy
-
                                         Why Winning in Rock-Paper-Scissors (and in Life) Isn’t Everything
 
    By Patrick Honner
@@ -82,21 +11,6 @@
    BIG MOUTH for Quanta Magazine
 
 Introduction
-
-   [IMG]
-   By Patrick Honner
-
-   Contributing Columnist
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   April 2, 2018
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   education game theory mathematics Quantized Academy Quantized Columns All topics
-   [IMG]
 
    Rock-Paper-Scissors works great for deciding who has to take out the garbage. But have you ever noticed what happens when, instead of
    playing best of three, you just let the game continue round after round? At first, you play a pattern that gives you the upper hand, but
@@ -125,8 +39,6 @@ Quantized Academy
 
    Patrick Honner, a nationally recognized high school teacher from Brooklyn, New York, introduces basic concepts from the latest mathematical
    research.
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
    See all Quantized Academy Columns
 
@@ -274,16 +186,6 @@ Quantized Academy
    strategy was. Many rounds would pass before Player A could get a sense of, say, how often Player B was choosing Rock, in order to figure out
    how often to choose Paper.
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. In Game Theory, No Clear Path to Equilibrium
-
-    2. How Math (and Vaccines) Keep You Safe From the Flu
-
-    3. The (Math) Problem With Pentagons
-
    Now imagine there are 100 people playing Rock-Paper-Scissors, each with a different set of secret payoffs, each depending on how many of
    their 99 opponents they defeat using Rock, Paper or Scissors. How long would it take to calculate just the right frequency of Rock, Paper or
    Scissors you should play in order to reach an equilibrium point? Probably a long time. Maybe longer than the game will go on. Maybe even
@@ -314,141 +216,16 @@ Exercises
    Correction: This column was revised on April 3, 2018, to reflect that 1/4 × 1/3 = 1/12. The results for one set of strategy profiles was
    also corrected to indicate that Paper would be played against Rock.
 
-   This article was reprinted on Wired.com and in Spanish at Investigacionyciencia.es.
+## Summary of "The Unstable Equilibrium of Rock-Paper-Scissors"
 
-   Share this article
-   Copied!
+This article explains the concept of **Nash equilibrium** using the classic game of Rock-Paper-Scissors as an example. A Nash equilibrium occurs when no player can improve their outcome by unilaterally changing their strategy, assuming the other players' strategies remain the same.
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+The article demonstrates that while a random strategy is a Nash equilibrium in Rock-Paper-Scissors (because no player can consistently beat a truly random opponent), any deviation from this leads to an opportunity for the other player to exploit the imbalance. This means there's no single "best" strategy for either player to achieve a guaranteed win.
 
-   Newsletter
+The author highlights the importance of Nash equilibrium in modeling real-world situations involving competition and cooperation, such as negotiations, economic incentives, and network designs. However, the article cautions that **not all games will naturally lead to a stable Nash equilibrium**. 
 
-   Get Quanta Magazine delivered to your inbox
+The complexity of the game, particularly when player preferences are secret or numerous, can make it difficult to predict or achieve an equilibrium. The article concludes that while the concept of Nash equilibrium is powerful, it's not a guarantee of stability in all scenarios, and the "invisible hand" of rational players might not always produce the desired outcomes. 
 
-   Subscribe now
-   Recent newsletters
-   [IMG]
-   By Patrick Honner
+The article also poses questions for further thought, exploring how changes in player payoffs or the introduction of more complex scenarios could impact the dynamics of the game and the likelihood of reaching a Nash equilibrium. 
 
-   Contributing Columnist
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   April 2, 2018
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   education game theory mathematics Quantized Academy Quantized Columns All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Mathematics
-
-   The Math That Explains Why Bell Curves Are Everywhere
-   An illustration of roller coaster tracks in the shape of bell curves.
-   explainers
-
-  The Math That Explains Why Bell Curves Are Everywhere
-
-   By Joseph Howlett
-   March 16, 2026
-   Read Later
-   New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-   [IMG]
-   number theory
-
-  New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-
-   By Paulina Rowińska
-   March 6, 2026
-   Read Later
-   Can the Most Abstract Math Make the World a Better Place?
-   An illustration showing a variety of objects — a factory, cloud, polar bear, fish, and more — connected by straight and looping arrows to
-   boxes containing mathematical notation.
-   Qualia
-
-  Can the Most Abstract Math Make the World a Better Place?
-
-   By Natalie Wolchover
-   March 4, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Illustration for first stars
-
-Next article
-
-   Whisper From the First Stars Sets Off Loud Dark Matter Debate
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

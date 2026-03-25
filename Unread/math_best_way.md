@@ -1,74 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   Why Math Is the Best Way to Make Sense of the World
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   Q&A
-
                                                Why Math Is the Best Way to Make Sense of the World
 
    By Ariel Bleicher
@@ -82,21 +11,6 @@
    Max Hirshfeld for Quanta Magazine
 
 Introduction
-
-   [IMG]
-   By Ariel Bleicher
-
-   Contributing Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   September 11, 2017
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   education mathematics Q&A statistics All topics
-   [IMG]
 
    When Rebecca Goldin spoke to a recent class of incoming freshmen at George Mason University, she relayed a disheartening statistic:
    According to a recent study, 36 percent of college students don’t significantly improve in critical thinking during their four-year tenure.
@@ -149,25 +63,6 @@ Introduction
    All those rotations are symmetries. There are a lot of other ways symmetries come up, and they can get really, really complicated. So we use
    neat mathematical objects to think about them, called groups. This is useful because if you’re trying to solve equations, and you know you
    have symmetries, you can essentially find a way mathematically to get rid of those symmetries and make your equations simpler.
-
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   [ Submit ]
-   Rebecca Goldin
-   By clicking to watch this video, you agree to our privacy policy.
-
-   Video: Rebecca Goldin explains why quantitative literacy is so important.
-
-   Max Hirshfeld for Quanta Magazine
 
   What motivates you to study these complex symmetries?
 
@@ -268,149 +163,17 @@ Introduction
 
    Ha! This is maybe more a life view. I think there are people who are pessimistic about humankind and people who are optimistic.
 
-Related:
+## Summary of "Why Math Is the Best Way to Make Sense of the World"
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+This article features an interview with mathematician Rebecca Goldin, who argues that **quantitative thinking is crucial for understanding the world and combating misinformation.** Goldin highlights a concerning statistic: many college students fail to significantly improve their critical thinking skills, particularly in distinguishing fact from opinion and cause from correlation.
 
-    1. To Live Your Best Life, Do Mathematics
+She advocates for more math and science education, emphasizing that **quantitative reasoning provides the best tool for processing information.**  Goldin's work with STATS (now part of Sense About Science USA and the American Statistical Association) focuses on **equipping journalists with statistical literacy** to report more accurately and responsibly on data. 
 
-    2. A Wormhole Between Physics and Education
+She explains her passion for math as a love of **discovering beauty and patterns in symmetries**, and how this translates to her work.  Goldin stresses the importance of **distinguishing between correlation and causation** and how a lack of quantitative literacy can lead to poor decision-making on both individual and societal levels. 
 
-    3. Symmetry, Algebra and the Monster
+Ultimately, Goldin believes that **quantitative literacy empowers citizens** to make informed choices and resist manipulation. She emphasizes the importance of **storytelling in conveying statistical concepts** and notes that the rise of data and the current media landscape are motivating journalists to be more rigorous in their fact-checking.  She remains optimistic about the potential for people to understand and engage with the world through quantitative reasoning.
 
-    4. A Fight to Fix Geometry’s Foundations
 
-  You also volunteer with math clubs for kids. What ideas about math and math culture do you try to get across?
 
-   I try to bring in problems that are really different and fun and curious and weird. For example, I’ve done an activity with kids where I’ve
-   brought in a bunch of ribbons, and I had them learn a little bit about a field called knot theory. There are two things I’m trying to get
-   across to them. One is that math in school is not the whole story — there’s this whole other world that is logical but also beautiful and
-   creative. The second message is a certain emotional framework that I have to offer: that math is a joyous experience.
 
-   This article was reprinted on Wired.com.
 
-   [IMG]
-   By Ariel Bleicher
-
-   Contributing Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   September 11, 2017
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   education mathematics Q&A statistics All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Mathematics
-
-   The Math That Explains Why Bell Curves Are Everywhere
-   An illustration of roller coaster tracks in the shape of bell curves.
-   explainers
-
-  The Math That Explains Why Bell Curves Are Everywhere
-
-   By Joseph Howlett
-   March 16, 2026
-   Read Later
-   New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-   [IMG]
-   number theory
-
-  New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem
-
-   By Paulina Rowińska
-   March 6, 2026
-   Read Later
-   Can the Most Abstract Math Make the World a Better Place?
-   An illustration showing a variety of objects — a factory, cloud, polar bear, fish, and more — connected by straight and looping arrows to
-   boxes containing mathematical notation.
-   Qualia
-
-  Can the Most Abstract Math Make the World a Better Place?
-
-   By Natalie Wolchover
-   March 4, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Snake
-
-Next article
-
-   Solution: ‘The Prime Rib Problem’
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

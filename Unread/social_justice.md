@@ -1,75 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   [ Submit ]
-   Rediet Abebe on Using Algorithms for Social Justice
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   The Joy of x
-
                                                Rediet Abebe on Using Algorithms for Social Justice
 
    By Steven Strogatz
@@ -78,27 +6,6 @@
 
    The computer scientist Rediet Abebe’s passion for applied mathematics closely aligns with her passion to solve problems with poverty and
    social inequality.
-   Read Later
-   [IMG]
-   By Steven Strogatz
-
-   Podcast Host
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   April 5, 2021
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   algorithms artificial intelligence computer science economics machine learning mathematics The Joy of x All topics
-   [IMG]
-   All episodes  Your browser does not support the audio element.
-   [ Submit ]
-   _____________________
-   00:00 / 43:35
-   APPLE
-   SPOTIFY
 
    Can algorithms make society more equitable? Rediet Abebe, a computer scientist at the University of California, Berkeley, has shown that
    data-driven machine learning can help to optimize the results of social and economic strategies. In this week’s episode, host Steven
@@ -108,8 +15,6 @@
 
    Listen on Apple Podcasts, Spotify, Android, TuneIn, Stitcher, Google Podcasts, or your favorite podcasting app, or you can stream it
    from Quanta.
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
 Transcript
 
@@ -627,144 +532,11 @@ Transcript
    advisors are Thomas Lin and John Rennie. Our sound engineers are Charles Michelet and at the Cornell University Broadcast Studio, Glen
    Palmer and Bertrand Odom-Reed, who I like to call Bert.
 
-   [MUSIC PLAYING]
+This podcast episode of "The Joy of x" features a conversation between Stanford economist Abebe Tilahun and theoretical biologist Ethan Strogan. They discuss the complexities of translating policy objectives, particularly in the realm of poverty alleviation, into mathematical models. 
 
-   [END OF AUDIO]
+Tilahun argues that this translation process is inherently political and often overlooks crucial nuances. He highlights the danger of choosing objective functions that might lead to drastically different outcomes for those in need. He emphasizes the importance of considering the broader context – including data, policy, and the lived experiences of affected communities – when formulating these models. 
 
-   Share this article
-   Copied!
+Tilahun also reflects on the challenges of navigating academia, where he feels pressured to compartmentalize his research, teaching, and diversity work, despite seeing them as interconnected. He advocates for a more holistic approach that acknowledges the personal and political dimensions of his work.
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+The episode concludes with a brief introduction to the next episode, which will explore how mathematical oncology models cancerous tumors.
 
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   [IMG]
-   By Steven Strogatz
-
-   Podcast Host
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   April 5, 2021
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   algorithms artificial intelligence computer science economics machine learning mathematics The Joy of x All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Computer Science
-
-   Quantum Cryptography Pioneers Win Turing Award
-   A collage with Gilles Brassard (left) and Charles Bennett.
-   quantum information theory
-
-  Quantum Cryptography Pioneers Win Turing Award
-
-   By Ben Brubaker
-   March 18, 2026
-   Read Later
-   Why Do Humanoid Robots Still Struggle With the Small Stuff?
-   An illustration showing a variety of humanoid robots, including Atlas, Digit, a science fiction robot, and a toy, along with floating
-   stairs.
-   Qualia
-
-  Why Do Humanoid Robots Still Struggle With the Small Stuff?
-
-   By John Pavlus
-   March 13, 2026
-   Read Later
-   A New Complexity Theory for the Quantum Age
-   [IMG]
-   Q&A
-
-  A New Complexity Theory for the Quantum Age
-
-   By Ben Brubaker
-   February 17, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Side-by-side illustrations of the same linear hypergraph. The edges of the hypergraph are colored in the illustration on the right, but not
-   in the illustration on the left.
-
-Next article
-
-   Mathematicians Settle Erdős Coloring Conjecture
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

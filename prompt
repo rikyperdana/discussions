@@ -1,0 +1,7 @@
+# ollama run gemma3n:L "These are collection of science articles from QuantaMagazine.com, I don't have the time to read them all in detail. Please make them brief for me" < ./Unread/combined.md >> ./Unread/summary_from_Gemma3nL.md # poor answer
+
+# ollama run qwen3.5 "These are collection of science articles from QuantaMagazine.com, I don't have the time to read them all in detail. Please make them brief for me" < ./Unread/combined.md >> ./Unread/summary_from_Qwen35.md # poor answer
+
+# ollama run gemma3n:L "These are collections of science articles from QuantaMagazine.com. I don't have the time to read them all in detail, but surely interested to know everything these articles has to offer. I've lost count of how many articles I put inside, but they are should be separated by titles. Please make summaries for each of those articles" < ./Unread/combined.md >> ./Unread/summary_gemma3n.md # poor result, it can only manage to comprehend the later part
+
+ollama run gemma3n:L "Guide me how to do web scrapping in linux cli terminal. I already have collection of urls stored in txt file. I want you to build a bash script which can read those list, process the web scrapping, and then yield each results in collection of txt files." >> web_scrapping.md

@@ -11,18 +11,6 @@
 
 Introduction
 
-   [IMG]
-   By Matt von Hippel
-
-   Contributing Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   October 2, 2024
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
    applied math data machine learning mathematics randomness statistics All topics
    A Quanta Books ad displaying the book "Six Math Essentials" by Terry Tao
 
@@ -71,19 +59,6 @@ A Touch of Randomness
    completely sure it’s correct. Techniques involving single imputation often underestimate the uncertainty they introduce. Moreover, while
    statisticians can find ways to correct for this, Rubin realized that their methods tended to be finicky and specialized, with each situation
    practically requiring its own master’s thesis. He wanted a method that was both accurate and general, adaptable to almost any situation.
-
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   Stef van Buuren on a beach.
 
    Stef van Buuren of the University of Utrecht has helped develop statistical techniques for analyzing incomplete data. “We cannot calculate
    with missing data, just as we can’t divide by zero,” he said.
@@ -136,3 +111,15 @@ The Multiplying Uses of Multiple Imputation
 
    More programs followed, and multiple imputation became more widespread. Then, in 2010, a report commissioned by the FDA strongly recommended
    against single imputation and older ad hoc methods. Multiple imputation became the go-to technique in medicine.
+## Summary of "When Data Is Missing, Scientists Guess. Then Guess Again."
+
+The article discusses the common problem of missing data in scientific research and how statisticians deal with it. Traditional methods like ignoring missing data (complete case analysis) introduce bias.  A more robust technique, developed by Donald Rubin in the 1970s, is **multiple imputation**.
+
+Instead of making a single guess for missing values (single imputation), multiple imputation creates multiple plausible datasets by randomly imputing the missing data from a distribution of possible values. This accounts for the uncertainty introduced by the imputation process.  
+
+While initially met with resistance due to computational challenges, advancements in computing power have made multiple imputation the standard method in many fields, particularly in medicine, where accurate uncertainty estimates are crucial for decision-making.  The article highlights how Rubin's technique has evolved from a controversial idea to a widely adopted and recommended practice.
+
+
+
+
+

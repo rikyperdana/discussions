@@ -1,75 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   [ Submit ]
-   Will AI Ever Understand Language Like Humans?
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   The Joy of Why
-
                                                   Will AI Ever Understand Language Like Humans?
 
    By Janna Levin +1 authors
@@ -86,33 +14,6 @@
 
 Introduction
 
-   Authors
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Photo of Janna Levin
-
-      Janna Levin
-
-   Contributing Columnist
-
-   [IMG]
-
-      Steven Strogatz
-
-   Podcast Host
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   May 1, 2025
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   artificial intelligence computer science large language models machine learning natural language processing neural networks The Joy of Why
-   All topics
-   [IMG]
-
    Large language models (LLMs) are becoming increasingly more impressive at creating human-like text and answering questions, but whether they
    can understand the meaning of the words they generate is a hotly debated issue. A big challenge is that LLMs are black boxes; they can make
    predictions and decisions on the order of words, but they cannot communicate the reasons for doing so.
@@ -120,19 +21,6 @@ Introduction
    Ellie Pavlick at Brown University is building models that could help understand how LLMs process language compared with humans. In this
    episode of The Joy of Why, Pavlick discusses what we know and don’t know about LLM language processing, how their processes differ from
    humans, and how understanding LLMs better could also help us better appreciate our own capacity for knowledge and creativity.
-
-   Listen on Apple Podcasts, Spotify, TuneIn or your favorite podcasting app, or you can stream it from Quanta.
-
-   All episodes  Your browser does not support the audio element.
-   [ Submit ]
-   _____________________
-   00:00 / 41:08
-   APPLE
-   SPOTIFY
-
-Transcript
-
-   [Music plays]
 
    JANNA LEVIN: I’m Janna Levin
 
@@ -707,20 +595,6 @@ Transcript
    where you’re listening. You can also leave a review for the show. It helps people find this podcast. Find articles, newsletters, videos, and
    more at quantamagazine.org.
 
-Related:
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    1. Science, Promise and Peril in the Age of AI
-
-    2. When ChatGPT Broke an Entire Field: An Oral History
-
-    3. Does AI Know What an Apple Is? She Aims to Find Out.
-
-    4. How ‘Embeddings’ Encode What Words Mean — Sort Of
-
-    5. Where Does Meaning Live in a Sentence? Math Might Tell Us.
-
    LEVIN: The Joy of Why is a podcast from Quanta Magazine, an editorially independent publication supported by the Simons Foundation. Funding
    decisions by the Simons Foundation have no influence on the selection of topics, guests, or other editorial decisions in this podcast or in
    Quanta Magazine.
@@ -735,151 +609,13 @@ Related:
    to the Columbia Journalism School and the Cornell Broadcast Studios. I’m your host, Janna Levin. If you have any questions or comments for
    us, please email us at [email protected]. Thanks for listening.
 
-   Share this article
-   Copied!
+This podcast episode features a conversation between Jann Levin and Ellie Pavlick, a researcher exploring the philosophical implications of artificial intelligence. Pavlick expresses both excitement and concern about AI's rapid development, highlighting potential security risks and the spread of misinformation. 
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+She finds joy in the intellectual challenge of studying AI, viewing it as a privilege to grapple with fundamental questions about the human mind and consciousness. The discussion expands to touch on the nature of scientific inquiry and whether philosophy can be reduced to scientific principles. 
 
-   Newsletter
+The episode concludes with a discussion about the potential for AI to revolutionize scientific research and a thank you to Pavlick for sharing her insights. The hosts also promote a special series on AI at quantamagazine.org.
 
-   Get Quanta Magazine delivered to your inbox
 
-   Subscribe now
-   Recent newsletters
-   Authors
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
 
-   Photo of Janna Levin
 
-      Janna Levin
-
-   Contributing Columnist
-
-   [IMG]
-
-      Steven Strogatz
-
-   Podcast Host
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   May 1, 2025
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   artificial intelligence computer science large language models machine learning natural language processing neural networks The Joy of Why
-   All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Computer Science
-
-   Quantum Cryptography Pioneers Win Turing Award
-   A collage with Gilles Brassard (left) and Charles Bennett.
-   quantum information theory
-
-  Quantum Cryptography Pioneers Win Turing Award
-
-   By Ben Brubaker
-   March 18, 2026
-   Read Later
-   Why Do Humanoid Robots Still Struggle With the Small Stuff?
-   An illustration showing a variety of humanoid robots, including Atlas, Digit, a science fiction robot, and a toy, along with floating
-   stairs.
-   Qualia
-
-  Why Do Humanoid Robots Still Struggle With the Small Stuff?
-
-   By John Pavlus
-   March 13, 2026
-   Read Later
-   A New Complexity Theory for the Quantum Age
-   [IMG]
-   Q&A
-
-  A New Complexity Theory for the Quantum Age
-
-   By Ben Brubaker
-   February 17, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Particles and lines converging
-
-Next article
-
-   Science, Promise and Peril in the Age of AI
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy

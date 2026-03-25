@@ -1,75 +1,3 @@
-   Link: canonical
-     * Physics
-     * Mathematics
-     * Biology
-     * Computer Science
-     * Topics
-     * Archive
-     * Blog
-     * Columns
-     * Interviews
-     * Podcasts
-     * Puzzles
-     * Multimedia
-     * Videos
-     * About Quanta
-
-   An editorially independent publication supported by the Simons Foundation.
-
-   Follow Quanta
-   Newsletter
-
-   Get the latest news delivered to your inbox.
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-   Gift Store
-   Shop Quanta gear
-     * Physics 
-     * Mathematics 
-     * Biology 
-     * Computer Science 
-     * Topics 
-     * Archive
-     * Saved Articles
-
-       Create a reading list by clicking the Read Later icon next to the articles you wish to save.
-
-       See all saved articles
-     * Log out
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-    Change password
-
-     * * [ Submit ]
-
-   Type search term(s) and press enter
-
-   _____________________ What are you looking for?
-
-   Popular Searches
-
-     * Mathematics 
-     * Physics 
-     * Black Holes 
-     * Evolution
-   Home
-   [ Submit ]
-   The Neuroscience Behind Bad Decisions
-   Read Later
-
-        Share
-
-   Copied!
-   * [ Submit ]
-     * Comments
-     * Read Later
-       Read Later
-   neuroscience
-
                                                       The Neuroscience Behind Bad Decisions
 
    By Emily Singer
@@ -83,21 +11,6 @@
 
 Introduction
 
-   [IMG]
-   By Emily Singer
-
-   Former Senior Writer
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   August 23, 2016
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   biology economics neuroscience Quanta Podcast All topics
-   [IMG]
-
    Humans often make bad decisions. If you like Snickers more than Milky Way, it seems obvious which candy bar you’d pick, given a choice of
    the two. Traditional economic models follow this logical intuition, suggesting that people assign a value to each choice — say, Snickers:
    10, Milky Way: 5 — and select the top scorer. But our decision-making system is subject to glitches.
@@ -107,13 +20,6 @@ Introduction
    choose the Snickers. But if they were offered 20 candy bars, including a Snickers, the choice became less clear. They would sometimes pick
    something other than the Snickers, even though it was still their favorite. When Glimcher would remove all the choices except the Snickers
    and the selected candy, participants would wonder why they hadn’t chosen their favorite.
-
-   All episodes  Your browser does not support the audio element.
-   [ Submit ]
-   _____________________
-   00:00 / 13:34
-   APPLE
-   SPOTIFY
 
    Economists have spent more than 50 years cataloging irrational choices like these. Nobel Prizes have been earned; millions of copies of
    Freakonomics have been sold. But economists still aren’t sure why they happen. “There had been a real cottage industry in how to explain
@@ -212,20 +118,6 @@ Divide and Conquer
    we’re often faced with in the modern world. Glimcher and collaborators use these types of mistakes to test their model. The researchers are
    now examining whether these same algorithms can predict human error in other scenarios in which people tend to make poor choices.
 
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-
-   Lucy Reading-Ikkanda for Quanta Magazine
-
 Economic Insurgency
 
    Neuroeconomics is still a young field, filled with questions and controversy. Glimcher isn’t the only neuroscientist to have found signs of
@@ -270,133 +162,19 @@ Economic Insurgency
    it derives from our study of the math. Sometimes you learn something simple from the most complex stuff, and it really can improve your
    decision-making.”
 
-   This article was reprinted on TheAtlantic.com.
+## Summary of "The Neuroscience Behind Bad Decisions"
 
-   Note: This article was updated on September 1, 2016, to clarify that Glimcher’s model was derived from an earlier model called divisive
-   normalization.
+This article explores the neuroscience behind why humans often make irrational decisions, particularly when faced with numerous choices. It highlights the work of neuroscientist Paul Glimcher, who proposes that the brain uses a process called "divisive normalization" to efficiently process information. 
 
-   [IMG]
-   By Emily Singer
+**Key points:**
 
-   Former Senior Writer
+* **The Brain's Energy Constraint:** The brain is energy-hungry, forcing it to prioritize efficiency in decision-making.
+* **Divisive Normalization:** Glimcher's theory suggests the brain scales down the value of options with shared information, allowing for quicker comparisons. This is similar to how the visual system filters out redundant information.
+* **The Problem with Choice Overload:**  When faced with too many options, the brain's normalization system can become overwhelmed, leading to poor decisions.
+* **Evidence from Experiments:** Studies with monkeys and human brain activity show that the brain's activity aligns with Glimcher's model.
+* **Limitations and Future Research:** While promising, the theory is still evolving and faces skepticism from some neuroscientists who question the specific brain regions involved in decision-making.
+* **Practical Applications:** Glimcher's research has led to practical strategies for making better decisions, such as eliminating the worst options first. 
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
+In essence, the article argues that our tendency for irrationality isn't a flaw but a consequence of the brain's attempt to manage a complex and energy-constrained decision-making process. 
 
-   August 23, 2016
 
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   View PDF/Print Mode
-   biology economics neuroscience Quanta Podcast All topics
-   [IMG]
-   Share this article
-   Copied!
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   Newsletter
-
-   Get Quanta Magazine delivered to your inbox
-
-   Subscribe now
-   Recent newsletters
-   The Quanta Newsletter
-
-   Get highlights of the most important news delivered to your email inbox
-
-   Email _____________________
-   _____________________
-   Subscribe
-   Recent newsletters
-
-Also in Biology
-
-   Disorder Drives One of Nature’s Most Complex Machines
-   [IMG]
-   molecular biology
-
-  Disorder Drives One of Nature’s Most Complex Machines
-
-   By Yasemin Saplakoglu
-   March 9, 2026
-   Read Later
-   Break It To Make It: How Fracturing Sculpts Tissues and Organs
-   Snapshots of a fracturing process that creates the blastocoel cavity, inside which an embryonic mouse will grow. The fluid follows the path
-   of least resistance, preferentially breaking contacts between weaker (red) over tenser (blue) cells.
-   development
-
-  Break It To Make It: How Fracturing Sculpts Tissues and Organs
-
-   By Clare Watson
-   February 27, 2026
-   Read Later
-   The Biophysical World Inside a Jam-Packed Cell
-   A render of a cytoplasm filled with organelles
-   cell biology
-
-  The Biophysical World Inside a Jam-Packed Cell
-
-   By Gabriel Popkin
-   February 18, 2026
-   Read Later
-
-Comment on this article
-
-   Quanta Magazine moderates comments to facilitate an informed, substantive, civil conversation. Abusive, profane, self-promotional,
-   misleading, incoherent or off-topic comments will be rejected. Moderators are staffed during regular business hours (New York time) and can
-   only accept comments written in English. 
-
-   Show comments
-   Signatories of a bet placed in 2011.
-
-Next article
-
-   Supersymmetry Bet Settled With Cognac
-     * About Quanta
-     * Archive
-     * Contact Us
-     * Terms & Conditions
-     * Privacy Policy
-     * AI Editorial Policy
-
-     ----------------------------------------------------------------------------------------------------------------------------------------
-
-   All Rights Reserved © 2026
-   An editorially independent publication supported by the Simons Foundation. Simons Foundation
-   Log in to Quanta
-
-Use your social network
-
-   Connect with Facebook
-   Connect with Google
-   or
-   _____________________ email
-   _____________________ password
-   [ ] Remember me
-   [ Log in ]
-
-   Forgot your password ?
-
-   Don't have an account yet? Sign up
-   Forgot your password?
-
-   We’ll email you instructions to reset your password
-
-   _____________________ email
-   [ Send ]
-   Change your password
-
-   Enter your new password
-
-   _____________________ Password
-   _____________________ Retype new password
-   [ Send ]
-   Sign Up
-   _____________________ First Name
-   _____________________ Last Name
-   _____________________ Email
-   _____________________ Password
-   _____________________ Retype Password
-   [ Create an account ]
-   Creating an account means you accept Quanta Magazine's
-   Terms & Conditions and Privacy Policy
